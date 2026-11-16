@@ -1,0 +1,919 @@
+file,label,num_frames,video,relpath,hands_seen
+alright/MVI_0037_587c27a8.npy,alright,73,MVI_0037.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0037.MOV,0.93
+alright/MVI_0038_da2cb079.npy,alright,84,MVI_0038.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0038.MOV,0.94
+alright/MVI_0039_e74c99c9.npy,alright,79,MVI_0039.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0039.MOV,0.89
+alright/MVI_0040_f759cb00.npy,alright,80,MVI_0040.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0040.MOV,0.94
+alright/MVI_0043_b0f9b1d0.npy,alright,56,MVI_0043.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0043.MOV,0.84
+alright/MVI_0044_02d96dc0.npy,alright,58,MVI_0044.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0044.MOV,0.90
+alright/MVI_0045_3fb94470.npy,alright,63,MVI_0045.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0045.MOV,0.94
+alright/MVI_0095_832757ae.npy,alright,63,MVI_0095.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0095.MOV,0.70
+alright/MVI_0096_c4872d7e.npy,alright,82,MVI_0096.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0096.MOV,0.79
+alright/MVI_0097_f9e704ce.npy,alright,87,MVI_0097.MOV,Greetings_1of2/Greetings/50. Alright/MVI_0097.MOV,0.74
+alright/MVI_9923_ec770c35.npy,alright,54,MVI_9923.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9923.MOV,0.87
+alright/MVI_9924_5e57d025.npy,alright,55,MVI_9924.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9924.MOV,0.89
+alright/MVI_9925_6337f995.npy,alright,53,MVI_9925.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9925.MOV,0.91
+alright/MVI_9926_24978345.npy,alright,51,MVI_9926.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9926.MOV,0.86
+alright/MVI_9963_77e64e23.npy,alright,76,MVI_9963.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9963.MOV,0.89
+alright/MVI_9964_c5c69233.npy,alright,86,MVI_9964.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9964.MOV,0.93
+alright/MVI_9965_f8a6bb83.npy,alright,78,MVI_9965.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9965.MOV,0.87
+alright/MVI_9966_bf06c153.npy,alright,72,MVI_9966.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9966.MOV,0.88
+alright/MVI_9988_3a3c1e42.npy,alright,53,MVI_9988.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9988.MOV,0.92
+alright/MVI_9989_075c37f2.npy,alright,60,MVI_9989.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9989.MOV,0.93
+alright/MVI_9990_c1108626.npy,alright,54,MVI_9990.MOV,Greetings_1of2/Greetings/50. Alright/MVI_9990.MOV,0.89
+beautiful/MVI_9573_e7c6b86a.npy,beautiful,68,MVI_9573.MOV,Adjectives_1of8/Adjectives/5. Beautiful/Extra/MVI_9573.MOV,1.00
+beautiful/MVI_9569_5a146a74.npy,beautiful,65,MVI_9569.MOV,Adjectives_1of8/Adjectives/5. Beautiful/MVI_9569.MOV,1.00
+beautiful/MVI_9570_9c58dba0.npy,beautiful,79,MVI_9570.MOV,Adjectives_1of8/Adjectives/5. Beautiful/MVI_9570.MOV,1.00
+beautiful/MVI_9571_a138f210.npy,beautiful,64,MVI_9571.MOV,Adjectives_1of8/Adjectives/5. Beautiful/MVI_9571.MOV,1.00
+beautiful/MVI_9572_e69888c0.npy,beautiful,55,MVI_9572.MOV,Adjectives_1of8/Adjectives/5. Beautiful/MVI_9572.MOV,1.00
+beautiful/MVI_9723_1caa21ea.npy,beautiful,74,MVI_9723.MOV,Adjectives_1of8/Adjectives/5. Beautiful/MVI_9723.MOV,1.00
+beautiful/MVI_9724_ae8afdfa.npy,beautiful,70,MVI_9724.MOV,Adjectives_1of8/Adjectives/5. Beautiful/MVI_9724.MOV,1.00
+beautiful/MVI_9725_93ead44a.npy,beautiful,70,MVI_9725.MOV,Adjectives_1of8/Adjectives/5. Beautiful/MVI_9725.MOV,1.00
+beautiful/MVI_9726_d44aae9a.npy,beautiful,68,MVI_9726.MOV,Adjectives_1of8/Adjectives/5. Beautiful/MVI_9726.MOV,1.00
+bed/MVI_4352_df64f08b.npy,bed,55,MVI_4352.MOV,Home_1of4/Home/26. Bed/MVI_4352.MOV,1.00
+bed/MVI_4353_e204d93b.npy,bed,54,MVI_4353.MOV,Home_1of4/Home/26. Bed/MVI_4353.MOV,1.00
+bed/MVI_4354_5024052b.npy,bed,58,MVI_4354.MOV,Home_1of4/Home/26. Bed/MVI_4354.MOV,1.00
+bed/MVI_4355_6d442c9b.npy,bed,59,MVI_4355.MOV,Home_1of4/Home/26. Bed/MVI_4355.MOV,1.00
+bed/MVI_4875_228bd96a.npy,bed,58,MVI_4875.MOV,Home_1of4/Home/26. Bed/MVI_4875.MOV,1.00
+bed/MVI_4876_652ba3ba.npy,bed,68,MVI_4876.MOV,Home_1of4/Home/26. Bed/MVI_4876.MOV,0.57
+bed/MVI_4877_584b8a0a.npy,bed,70,MVI_4877.MOV,Home_1of4/Home/26. Bed/MVI_4877.MOV,0.54
+bed/MVI_8758_58d2d79c.npy,bed,66,MVI_8758.MP4,Home_1of4/Home/26. Bed/MVI_8758.MP4,0.80
+bed/MVI_8759_65b2fe2c.npy,bed,64,MVI_8759.MP4,Home_1of4/Home/26. Bed/MVI_8759.MP4,0.80
+bed/MVI_8760_ee36eef3.npy,bed,66,MVI_8760.MP4,Home_1of4/Home/26. Bed/MVI_8760.MP4,0.85
+bed/MVI_8761_d356c743.npy,bed,64,MVI_8761.MP4,Home_1of4/Home/26. Bed/MVI_8761.MP4,0.75
+bed/MVI_9007_8342efee.npy,bed,73,MVI_9007.MP4,Home_1of4/Home/26. Bed/MVI_9007.MP4,0.84
+bed/MVI_9008_0112783f.npy,bed,82,MVI_9008.MP4,Home_1of4/Home/26. Bed/MVI_9008.MP4,0.84
+bed/MVI_9009_3c72518f.npy,bed,72,MVI_9009.MP4,Home_1of4/Home/26. Bed/MVI_9009.MP4,0.79
+bedroom/MVI_4370_7d45bf8a.npy,bedroom,83,MVI_4370.MOV,Home_1of4/Home/30. Bedroom/MVI_4370.MOV,0.94
+bedroom/MVI_4371_4025963a.npy,bedroom,81,MVI_4371.MOV,Home_1of4/Home/30. Bedroom/MVI_4371.MOV,0.91
+bedroom/MVI_4372_0785ecea.npy,bedroom,94,MVI_4372.MOV,Home_1of4/Home/30. Bedroom/MVI_4372.MOV,0.95
+bedroom/MVI_4373_3ae5c55a.npy,bedroom,87,MVI_4373.MOV,Home_1of4/Home/30. Bedroom/MVI_4373.MOV,0.92
+bedroom/MVI_4887_3c3485b5.npy,bedroom,72,MVI_4887.MOV,Home_1of4/Home/30. Bedroom/MVI_4887.MOV,0.85
+bedroom/MVI_4888_be641264.npy,bedroom,73,MVI_4888.MOV,Home_1of4/Home/30. Bedroom/MVI_4888.MOV,0.84
+bedroom/MVI_4896_ca087fa0.npy,bedroom,64,MVI_4896.MOV,Home_1of4/Home/30. Bedroom/MVI_4896.MOV,0.83
+bedroom/MVI_8774_45c326fc.npy,bedroom,102,MVI_8774.MP4,Home_1of4/Home/30. Bedroom/MVI_8774.MP4,0.79
+bedroom/MVI_8775_78a30f4c.npy,bedroom,108,MVI_8775.MP4,Home_1of4/Home/30. Bedroom/MVI_8775.MP4,0.81
+bedroom/MVI_8776_3f03759c.npy,bedroom,97,MVI_8776.MP4,Home_1of4/Home/30. Bedroom/MVI_8776.MP4,0.74
+bedroom/MVI_8777_02635c2c.npy,bedroom,102,MVI_8777.MP4,Home_1of4/Home/30. Bedroom/MVI_8777.MP4,0.83
+bedroom/MVI_9019_62073f40.npy,bedroom,109,MVI_9019.MP4,Home_1of4/Home/30. Bedroom/MVI_9019.MP4,0.90
+bedroom/MVI_9020_e9832f9f.npy,bedroom,108,MVI_9020.MP4,Home_1of4/Home/30. Bedroom/MVI_9020.MP4,0.84
+bedroom/MVI_9021_d4e3062f.npy,bedroom,104,MVI_9021.MP4,Home_1of4/Home/30. Bedroom/MVI_9021.MP4,0.74
+blind/MVI_9584_eb3ba0fc.npy,blind,58,MVI_9584.MOV,Adjectives_1of8/Adjectives/8. Blind/MVI_9584.MOV,1.00
+blind/MVI_9585_d65b894c.npy,blind,60,MVI_9585.MOV,Adjectives_1of8/Adjectives/8. Blind/MVI_9585.MOV,1.00
+blind/MVI_9586_91fbf39c.npy,blind,52,MVI_9586.MOV,Adjectives_1of8/Adjectives/8. Blind/MVI_9586.MOV,1.00
+blind/MVI_9587_ac9bda2c.npy,blind,59,MVI_9587.MOV,Adjectives_1of8/Adjectives/8. Blind/MVI_9587.MOV,1.00
+blind/MVI_9852_b9322742.npy,blind,57,MVI_9852.MOV,Adjectives_1of8/Adjectives/8. Blind/MVI_9852.MOV,1.00
+blind/MVI_9853_84520ef2.npy,blind,56,MVI_9853.MOV,Adjectives_1of8/Adjectives/8. Blind/MVI_9853.MOV,1.00
+blind/MVI_9854_3672d2e2.npy,blind,56,MVI_9854.MOV,Adjectives_1of8/Adjectives/8. Blind/MVI_9854.MOV,1.00
+blind/MVI_9855_0b12fb52.npy,blind,54,MVI_9855.MOV,Adjectives_1of8/Adjectives/8. Blind/MVI_9855.MOV,1.00
+chair/MVI_4348_ae935a56.npy,chair,52,MVI_4348.MOV,Home_1of4/Home/25. Chair/MVI_4348.MOV,0.79
+chair/MVI_4349_93f373e6.npy,chair,42,MVI_4349.MOV,Home_1of4/Home/25. Chair/MVI_4349.MOV,0.69
+chair/MVI_4350_55bfc232.npy,chair,49,MVI_4350.MOV,Home_1of4/Home/25. Chair/MVI_4350.MOV,0.71
+chair/MVI_4351_68dfeb82.npy,chair,44,MVI_4351.MOV,Home_1of4/Home/25. Chair/MVI_4351.MOV,0.77
+chair/MVI_4872_60b064a3.npy,chair,52,MVI_4872.MOV,Home_1of4/Home/25. Chair/MVI_4872.MOV,0.62
+chair/MVI_4873_5dd04d13.npy,chair,55,MVI_4873.MOV,Home_1of4/Home/25. Chair/MVI_4873.MOV,0.75
+chair/MVI_4874_eff09103.npy,chair,51,MVI_4874.MOV,Home_1of4/Home/25. Chair/MVI_4874.MOV,0.78
+chair/MVI_8754_6d395b44.npy,chair,59,MVI_8754.MP4,Home_1of4/Home/25. Chair/MVI_8754.MP4,0.66
+chair/MVI_8755_505972f4.npy,chair,66,MVI_8755.MP4,Home_1of4/Home/25. Chair/MVI_8755.MP4,0.73
+chair/MVI_8756_17f90824.npy,chair,50,MVI_8756.MP4,Home_1of4/Home/25. Chair/MVI_8756.MP4,0.62
+chair/MVI_8757_2a992194.npy,chair,60,MVI_8757.MP4,Home_1of4/Home/25. Chair/MVI_8757.MP4,0.68
+chair/MVI_9004_34f9f4e7.npy,chair,54,MVI_9004.MP4,Home_1of4/Home/25. Chair/MVI_9004.MP4,0.80
+chair/MVI_9005_0999dd57.npy,chair,47,MVI_9005.MP4,Home_1of4/Home/25. Chair/MVI_9005.MP4,0.77
+chair/MVI_9006_4e39a787.npy,chair,61,MVI_9006.MP4,Home_1of4/Home/25. Chair/MVI_9006.MP4,0.82
+cheap/MVI_9617_a6fda598.npy,cheap,56,MVI_9617.MOV,Adjectives_2of8/Adjectives/16. cheap/MVI_9617.MOV,1.00
+cheap/MVI_9618_24ad3249.npy,cheap,64,MVI_9618.MOV,Adjectives_2of8/Adjectives/16. cheap/MVI_9618.MOV,1.00
+cheap/MVI_9619_19cd1bf9.npy,cheap,65,MVI_9619.MOV,Adjectives_2of8/Adjectives/16. cheap/MVI_9619.MOV,1.00
+cheap/MVI_9620_92490b26.npy,cheap,60,MVI_9620.MOV,Adjectives_2of8/Adjectives/16. cheap/MVI_9620.MOV,1.00
+cheap/MVI_9750_293b302a.npy,cheap,61,MVI_9750.MOV,Adjectives_2of8/Adjectives/16. cheap/MVI_9750.MOV,1.00
+cheap/MVI_9751_145b199a.npy,cheap,70,MVI_9751.MOV,Adjectives_2of8/Adjectives/16. cheap/MVI_9751.MOV,1.00
+cheap/MVI_9752_53fb634a.npy,cheap,66,MVI_9752.MOV,Adjectives_2of8/Adjectives/16. cheap/MVI_9752.MOV,1.00
+cheap/MVI_9754_dcbb96ea.npy,cheap,60,MVI_9754.MOV,Adjectives_2of8/Adjectives/16. cheap/MVI_9754.MOV,1.00
+city/MVI_3263_b202536d.npy,city,90,MVI_3263.MOV,Places_1of4/Places/18. City/MVI_3263.MOV,0.93
+city/MVI_3264_00228f7d.npy,city,65,MVI_3264.MOV,Places_1of4/Places/18. City/MVI_3264.MOV,0.91
+city/MVI_3265_3d42a6cd.npy,city,84,MVI_3265.MOV,Places_1of4/Places/18. City/MVI_3265.MOV,0.95
+city/MVI_3266_7ae2dc1d.npy,city,81,MVI_3266.MOV,Places_1of4/Places/18. City/MVI_3266.MOV,0.91
+city/MVI_3345_d6fd0c72.npy,city,92,MVI_3345.MOV,Places_1of4/Places/18. City/MVI_3345.MOV,0.95
+city/MVI_3346_915d76a2.npy,city,64,MVI_3346.MOV,Places_1of4/Places/18. City/MVI_3346.MOV,0.92
+city/MVI_3347_ac3d5f12.npy,city,63,MVI_3347.MOV,Places_1of4/Places/18. City/MVI_3347.MOV,0.92
+city/MVI_3348_2e6dc8c3.npy,city,57,MVI_3348.MOV,Places_1of4/Places/18. City/MVI_3348.MOV,0.89
+city/MVI_3430_c6bf8d34.npy,city,72,MVI_3430.MOV,Places_1of4/Places/18. City/MVI_3430.MOV,1.00
+city/MVI_3431_fbdfa484.npy,city,68,MVI_3431.MOV,Places_1of4/Places/18. City/MVI_3431.MOV,1.00
+city/MVI_3432_bc7fde54.npy,city,64,MVI_3432.MOV,Places_1of4/Places/18. City/MVI_3432.MOV,1.00
+city/MVI_3434_333f2bf4.npy,city,70,MVI_3434.MOV,Places_1of4/Places/18. City/MVI_3434.MOV,0.99
+city/MVI_3508_d62cbfef.npy,city,68,MVI_3508.MOV,Places_1of4/Places/18. City/MVI_3508.MOV,0.91
+city/MVI_3509_eb4c965f.npy,city,59,MVI_3509.MOV,Places_1of4/Places/18. City/MVI_3509.MOV,0.88
+city/MVI_3510_2d00278b.npy,city,70,MVI_3510.MOV,Places_1of4/Places/18. City/MVI_3510.MOV,0.93
+city/MVI_3512_57c074eb.npy,city,60,MVI_3512.MOV,Places_1of4/Places/18. City/MVI_3512.MOV,0.83
+city/MVI_3589_071f1432.npy,city,70,MVI_3589.MOV,Places_1of4/Places/18. City/MVI_3589.MOV,0.94
+city/MVI_3590_c153a5e6.npy,city,63,MVI_3590.MOV,Places_1of4/Places/18. City/MVI_3590.MOV,0.94
+city/MVI_3591_fc338c56.npy,city,60,MVI_3591.MOV,Places_1of4/Places/18. City/MVI_3591.MOV,0.92
+city/MVI_3592_bb93f686.npy,city,54,MVI_3592.MOV,Places_1of4/Places/18. City/MVI_3592.MOV,0.96
+curved/MVI_9633_6828db1e.npy,curved,77,MVI_9633.MOV,Adjectives_2of8/Adjectives/18. curved/MVI_9633.MOV,1.00
+curved/MVI_9634_da08070e.npy,curved,77,MVI_9634.MOV,Adjectives_2of8/Adjectives/18. curved/MVI_9634.MOV,1.00
+curved/MVI_9635_e7682ebe.npy,curved,69,MVI_9635.MOV,Adjectives_2of8/Adjectives/18. curved/MVI_9635.MOV,1.00
+curved/MVI_9636_a0c8546e.npy,curved,67,MVI_9636.MOV,Adjectives_2of8/Adjectives/18. curved/MVI_9636.MOV,1.00
+curved/MVI_9759_52b62b16.npy,curved,72,MVI_9759.MOV,Adjectives_2of8/Adjectives/18. curved/MVI_9759.MOV,1.00
+curved/MVI_9760_d9323bc9.npy,curved,83,MVI_9760.MOV,Adjectives_2of8/Adjectives/18. curved/MVI_9760.MOV,1.00
+curved/MVI_9761_e4521279.npy,curved,73,MVI_9761.MOV,Adjectives_2of8/Adjectives/18. curved/MVI_9761.MOV,1.00
+curved/MVI_9762_a3f268a9.npy,curved,70,MVI_9762.MOV,Adjectives_2of8/Adjectives/18. curved/MVI_9762.MOV,1.00
+daughter/MVI_3756_8508b856.npy,daughter,52,MVI_3756.MOV,People_1of5/People/59. Daughter/MVI_3756.MOV,0.88
+daughter/MVI_3757_b86891e6.npy,daughter,40,MVI_3757.MOV,People_1of5/People/59. Daughter/MVI_3757.MOV,0.85
+daughter/MVI_3758_3a380637.npy,daughter,43,MVI_3758.MOV,People_1of5/People/59. Daughter/MVI_3758.MOV,1.00
+daughter/MVI_3903_4d1addc8.npy,daughter,73,MVI_3903.MOV,People_1of5/People/59. Daughter/MVI_3903.MOV,0.96
+daughter/MVI_3904_ff3a01d8.npy,daughter,70,MVI_3904.MOV,People_1of5/People/59. Daughter/MVI_3904.MOV,0.94
+daughter/MVI_3905_c25a2868.npy,daughter,72,MVI_3905.MOV,People_1of5/People/59. Daughter/MVI_3905.MOV,0.90
+daughter/MVI_4054_30aadca1.npy,daughter,63,MVI_4054.MOV,People_1of5/People/59. Daughter/MVI_4054.MOV,0.98
+daughter/MVI_4055_0dcaf511.npy,daughter,58,MVI_4055.MOV,People_1of5/People/59. Daughter/MVI_4055.MOV,0.93
+daughter/MVI_4056_4a6a8fc1.npy,daughter,61,MVI_4056.MOV,People_1of5/People/59. Daughter/MVI_4056.MOV,0.92
+daughter/MVI_4221_72d07240.npy,daughter,48,MVI_4221.MOV,People_1of5/People/59. Daughter/MVI_4221.MOV,1.00
+daughter/MVI_4934_736b7a6f.npy,daughter,61,MVI_4934.MOV,People_1of5/People/59. Daughter/MVI_4934.MOV,0.95
+daughter/MVI_4935_4e0b53df.npy,daughter,55,MVI_4935.MOV,People_1of5/People/59. Daughter/MVI_4935.MOV,0.96
+daughter/MVI_4936_09ab290f.npy,daughter,52,MVI_4936.MOV,People_1of5/People/59. Daughter/MVI_4936.MOV,0.94
+daughter/MVI_5074_b1c87d34.npy,daughter,64,MVI_5074.MOV,People_1of5/People/59. Daughter/MVI_5074.MOV,0.84
+daughter/MVI_5075_8ca85484.npy,daughter,50,MVI_5075.MOV,People_1of5/People/59. Daughter/MVI_5075.MOV,0.92
+daughter/MVI_5076_cb082e54.npy,daughter,58,MVI_5076.MOV,People_1of5/People/59. Daughter/MVI_5076.MOV,0.76
+daughter/MVI_5221_be7a72de.npy,daughter,59,MVI_5221.MOV,People_1of5/People/59. Daughter/MVI_5221.MOV,1.00
+daughter/MVI_5222_f9da080e.npy,daughter,71,MVI_5222.MOV,People_1of5/People/59. Daughter/MVI_5222.MOV,1.00
+daughter/MVI_5223_c4ba21be.npy,daughter,72,MVI_5223.MOV,People_1of5/People/59. Daughter/MVI_5223.MOV,1.00
+daughter/MVI_8624_7736c286.npy,daughter,67,MVI_8624.MP4,People_1of5/People/59. Daughter/MVI_8624.MP4,0.76
+deaf/MVI_9580_a4db45ea.npy,deaf,61,MVI_9580.MOV,Adjectives_1of8/Adjectives/7. Deaf/MVI_9580.MOV,1.00
+deaf/MVI_9581_99bb6c5a.npy,deaf,61,MVI_9581.MOV,Adjectives_1of8/Adjectives/7. Deaf/MVI_9581.MOV,1.00
+deaf/MVI_9582_de1b168a.npy,deaf,58,MVI_9582.MOV,Adjectives_1of8/Adjectives/7. Deaf/MVI_9582.MOV,1.00
+deaf/MVI_9583_e37b3f3a.npy,deaf,55,MVI_9583.MOV,Adjectives_1of8/Adjectives/7. Deaf/MVI_9583.MOV,1.00
+deaf/MVI_9848_82beaf90.npy,deaf,52,MVI_9848.MOV,Adjectives_1of8/Adjectives/7. Deaf/MVI_9848.MOV,1.00
+deaf/MVI_9849_bfde8620.npy,deaf,56,MVI_9849.MOV,Adjectives_1of8/Adjectives/7. Deaf/MVI_9849.MOV,1.00
+deaf/MVI_9850_799237f4.npy,deaf,57,MVI_9850.MOV,Adjectives_1of8/Adjectives/7. Deaf/MVI_9850.MOV,1.00
+deaf/MVI_9851_44f21e44.npy,deaf,50,MVI_9851.MOV,Adjectives_1of8/Adjectives/7. Deaf/MVI_9851.MOV,1.00
+door/MVI_4366_820c3af8.npy,door,57,MVI_4366.MOV,Home_1of4/Home/29. Door/MVI_4366.MOV,1.00
+door/MVI_4367_bf6c1348.npy,door,51,MVI_4367.MOV,Home_1of4/Home/29. Door/MVI_4367.MOV,1.00
+door/MVI_4368_3d3c8499.npy,door,50,MVI_4368.MOV,Home_1of4/Home/29. Door/MVI_4368.MOV,1.00
+door/MVI_4369_005cad29.npy,door,57,MVI_4369.MOV,Home_1of4/Home/29. Door/MVI_4369.MOV,1.00
+door/MVI_4884_c0c15c12.npy,door,43,MVI_4884.MOV,Home_1of4/Home/29. Door/MVI_4884.MOV,0.98
+door/MVI_4885_fda175a2.npy,door,49,MVI_4885.MOV,Home_1of4/Home/29. Door/MVI_4885.MOV,1.00
+door/MVI_4886_ba010f72.npy,door,50,MVI_4886.MOV,Home_1of4/Home/29. Door/MVI_4886.MOV,1.00
+door/MVI_8770_0b16234b.npy,door,76,MVI_8770.MP4,Home_1of4/Home/29. Door/MVI_8770.MP4,1.00
+door/MVI_8771_36760afb.npy,door,89,MVI_8771.MP4,Home_1of4/Home/29. Door/MVI_8771.MP4,1.00
+door/MVI_8772_71d6702b.npy,door,74,MVI_8772.MP4,Home_1of4/Home/29. Door/MVI_8772.MP4,1.00
+door/MVI_8773_4cb6599b.npy,door,68,MVI_8773.MP4,Home_1of4/Home/29. Door/MVI_8773.MP4,1.00
+door/MVI_9016_5b020be6.npy,door,69,MVI_9016.MP4,Home_1of4/Home/29. Door/MVI_9016.MP4,1.00
+door/MVI_9017_66622256.npy,door,69,MVI_9017.MP4,Home_1of4/Home/29. Door/MVI_9017.MP4,1.00
+door/MVI_9018_e432b587.npy,door,75,MVI_9018.MP4,Home_1of4/Home/29. Door/MVI_9018.MP4,1.00
+dream/MVI_4357_ec965b85.npy,dream,72,MVI_4357.MOV,Home_1of4/Home/27. Dream/MVI_4357.MOV,0.92
+dream/MVI_4359_53a6e5e4.npy,dream,78,MVI_4359.MOV,Home_1of4/Home/27. Dream/MVI_4359.MOV,0.91
+dream/MVI_4360_d822f53b.npy,dream,74,MVI_4360.MOV,Home_1of4/Home/27. Dream/MVI_4360.MOV,0.95
+dream/MVI_4361_e542dc8b.npy,dream,81,MVI_4361.MOV,Home_1of4/Home/27. Dream/MVI_4361.MOV,0.93
+dream/MVI_4878_210939a5.npy,dream,65,MVI_4878.MOV,Home_1of4/Home/27. Dream/MVI_4878.MOV,0.82
+dream/MVI_4879_1c691015.npy,dream,76,MVI_4879.MOV,Home_1of4/Home/27. Dream/MVI_4879.MOV,0.82
+dream/MVI_4880_e02fc0b1.npy,dream,71,MVI_4880.MOV,Home_1of4/Home/27. Dream/MVI_4880.MOV,0.80
+dream/MVI_8762_6fe499ed.npy,dream,95,MVI_8762.MP4,Home_1of4/Home/27. Dream/MVI_8762.MP4,0.89
+dream/MVI_8763_5284b05d.npy,dream,92,MVI_8763.MP4,Home_1of4/Home/27. Dream/MVI_8763.MP4,0.87
+dream/MVI_8764_e0a46c4d.npy,dream,93,MVI_8764.MP4,Home_1of4/Home/27. Dream/MVI_8764.MP4,0.88
+dream/MVI_8765_ddc445fd.npy,dream,107,MVI_8765.MP4,Home_1of4/Home/27. Dream/MVI_8765.MP4,0.95
+dream/MVI_9010_012cc425.npy,dream,77,MVI_9010.MP4,Home_1of4/Home/27. Dream/MVI_9010.MP4,0.87
+dream/MVI_9011_3c4ced95.npy,dream,81,MVI_9011.MP4,Home_1of4/Home/27. Dream/MVI_9011.MP4,0.88
+dream/MVI_9012_7bec9745.npy,dream,85,MVI_9012.MP4,Home_1of4/Home/27. Dream/MVI_9012.MP4,0.89
+expensive/MVI_9613_88475dd3.npy,expensive,76,MVI_9613.MOV,Adjectives_2of8/Adjectives/15. expensive/MVI_9613.MOV,1.00
+expensive/MVI_9614_3a6781c3.npy,expensive,71,MVI_9614.MOV,Adjectives_2of8/Adjectives/15. expensive/MVI_9614.MOV,1.00
+expensive/MVI_9615_0707a873.npy,expensive,73,MVI_9615.MOV,Adjectives_2of8/Adjectives/15. expensive/MVI_9615.MOV,1.00
+expensive/MVI_9616_40a7d2a3.npy,expensive,63,MVI_9616.MOV,Adjectives_2of8/Adjectives/15. expensive/MVI_9616.MOV,1.00
+expensive/MVI_9746_b61d48a4.npy,expensive,57,MVI_9746.MOV,Adjectives_2of8/Adjectives/15. expensive/MVI_9746.MOV,1.00
+expensive/MVI_9747_8b7d6114.npy,expensive,55,MVI_9747.MOV,Adjectives_2of8/Adjectives/15. expensive/MVI_9747.MOV,1.00
+expensive/MVI_9748_092df6c5.npy,expensive,63,MVI_9748.MOV,Adjectives_2of8/Adjectives/15. expensive/MVI_9748.MOV,1.00
+expensive/MVI_9749_344ddf75.npy,expensive,63,MVI_9749.MOV,Adjectives_2of8/Adjectives/15. expensive/MVI_9749.MOV,1.00
+father/MVI_3763_4ee85919.npy,father,51,MVI_3763.MOV,People_1of5/People/61. Father/MVI_3763.MOV,0.86
+father/MVI_3764_fcc88509.npy,father,56,MVI_3764.MOV,People_1of5/People/61. Father/MVI_3764.MOV,0.88
+father/MVI_3765_c1a8acb9.npy,father,55,MVI_3765.MOV,People_1of5/People/61. Father/MVI_3765.MOV,0.85
+father/MVI_3909_823ed9f8.npy,father,71,MVI_3909.MOV,People_1of5/People/61. Father/MVI_3909.MOV,0.89
+father/MVI_3910_4472682c.npy,father,71,MVI_3910.MOV,People_1of5/People/61. Father/MVI_3910.MOV,0.90
+father/MVI_3912_3eb23b4c.npy,father,94,MVI_3912.MOV,People_1of5/People/61. Father/MVI_3912.MOV,0.90
+father/MVI_4060_c62a145e.npy,father,56,MVI_4060.MOV,People_1of5/People/61. Father/MVI_4060.MOV,0.91
+father/MVI_4061_fb4a3dee.npy,father,57,MVI_4061.MOV,People_1of5/People/61. Father/MVI_4061.MOV,0.91
+father/MVI_4062_bcea473e.npy,father,56,MVI_4062.MOV,People_1of5/People/61. Father/MVI_4062.MOV,0.93
+father/MVI_4223_8d843db1.npy,father,63,MVI_4223.MOV,People_1of5/People/61. Father/MVI_4223.MOV,0.94
+father/MVI_4940_1e7af086.npy,father,60,MVI_4940.MOV,People_1of5/People/61. Father/MVI_4940.MOV,0.95
+father/MVI_4941_231ad936.npy,father,49,MVI_4941.MOV,People_1of5/People/61. Father/MVI_4941.MOV,0.92
+father/MVI_4942_64baa3e6.npy,father,59,MVI_4942.MOV,People_1of5/People/61. Father/MVI_4942.MOV,0.93
+father/MVI_5080_308a75b0.npy,father,58,MVI_5080.MOV,People_1of5/People/61. Father/MVI_5080.MOV,0.79
+father/MVI_5081_0dea5c00.npy,father,60,MVI_5081.MOV,People_1of5/People/61. Father/MVI_5081.MOV,0.87
+father/MVI_5082_4a4a26d0.npy,father,66,MVI_5082.MOV,People_1of5/People/61. Father/MVI_5082.MOV,0.71
+father/MVI_5227_b4ae9bef.npy,father,50,MVI_5227.MOV,People_1of5/People/61. Father/MVI_5227.MOV,1.00
+father/MVI_5228_36fe0c3e.npy,father,50,MVI_5228.MOV,People_1of5/People/61. Father/MVI_5228.MOV,1.00
+father/MVI_5229_0b9e258e.npy,father,48,MVI_5229.MOV,People_1of5/People/61. Father/MVI_5229.MOV,0.94
+father/MVI_8626_88628d77.npy,father,66,MVI_8626.MP4,People_1of5/People/61. Father/MVI_8626.MP4,0.91
+female/MVI_9642_b6b296d3.npy,female,57,MVI_9642.MOV,Adjectives_2of8/Adjectives/20. female/MVI_9642.MOV,1.00
+female/MVI_9643_8bd2bf63.npy,female,52,MVI_9643.MOV,Adjectives_2of8/Adjectives/20. female/MVI_9643.MOV,1.00
+female/MVI_9644_39f26373.npy,female,46,MVI_9644.MOV,Adjectives_2of8/Adjectives/20. female/MVI_9644.MOV,1.00
+female/MVI_9645_04924ac3.npy,female,49,MVI_9645.MOV,Adjectives_2of8/Adjectives/20. female/MVI_9645.MOV,1.00
+female/MVI_9767_95edb31c.npy,female,47,MVI_9767.MOV,Adjectives_2of8/Adjectives/20. female/MVI_9767.MOV,1.00
+female/MVI_9768_17bd24cd.npy,female,53,MVI_9768.MOV,Adjectives_2of8/Adjectives/20. female/MVI_9768.MOV,1.00
+female/MVI_9769_2add0d7d.npy,female,46,MVI_9769.MOV,Adjectives_2of8/Adjectives/20. female/MVI_9769.MOV,1.00
+female/MVI_9770_ec91bca9.npy,female,56,MVI_9770.MOV,Adjectives_2of8/Adjectives/20. female/MVI_9770.MOV,1.00
+flat/MVI_9621_47b6add5.npy,flat,59,MVI_9621.MOV,Adjectives_2of8/Adjectives/17. flat/MVI_9621.MOV,0.76
+flat/MVI_9622_0016d705.npy,flat,67,MVI_9622.MOV,Adjectives_2of8/Adjectives/17. flat/MVI_9622.MOV,0.76
+flat/MVI_9623_3d76feb5.npy,flat,70,MVI_9623.MOV,Adjectives_2of8/Adjectives/17. flat/MVI_9623.MOV,0.61
+flat/MVI_9624_8f5622a5.npy,flat,67,MVI_9624.MOV,Adjectives_2of8/Adjectives/17. flat/MVI_9624.MOV,0.79
+flat/MVI_9755_09443019.npy,flat,58,MVI_9755.MOV,Adjectives_2of8/Adjectives/17. flat/MVI_9755.MOV,0.78
+flat/MVI_9756_4ee44ac9.npy,flat,65,MVI_9756.MOV,Adjectives_2of8/Adjectives/17. flat/MVI_9756.MOV,0.75
+flat/MVI_9757_73846379.npy,flat,62,MVI_9757.MOV,Adjectives_2of8/Adjectives/17. flat/MVI_9757.MOV,0.74
+flat/MVI_9758_f1d4f4a8.npy,flat,63,MVI_9758.MOV,Adjectives_2of8/Adjectives/17. flat/MVI_9758.MOV,0.76
+friday/MVI_4607_32d697e0.npy,friday,56,MVI_4607.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_4607.MOV,0.89
+friday/MVI_4608_b0860031.npy,friday,61,MVI_4608.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_4608.MOV,1.00
+friday/MVI_4609_8de62981.npy,friday,57,MVI_4609.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_4609.MOV,0.86
+friday/MVI_4610_4baa9855.npy,friday,55,MVI_4610.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_4610.MOV,0.87
+friday/MVI_5022_18848c3f.npy,friday,47,MVI_5022.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_5022.MOV,0.45
+friday/MVI_5023_25e4a58f.npy,friday,48,MVI_5023.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_5023.MOV,0.48
+friday/MVI_5026_ed042aff.npy,friday,49,MVI_5026.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_5026.MOV,0.69
+friday/MVI_5462_775aea3a.npy,friday,46,MVI_5462.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_5462.MOV,1.00
+friday/MVI_5463_4a3ac38a.npy,friday,54,MVI_5463.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_5463.MOV,1.00
+friday/MVI_5464_f81a1f9a.npy,friday,52,MVI_5464.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_5464.MOV,1.00
+friday/MVI_5465_c57a362a.npy,friday,54,MVI_5465.MOV,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_5465.MOV,1.00
+friday/MVI_9154_15ff5936.npy,friday,78,MVI_9154.MP4,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_9154.MP4,1.00
+friday/MVI_9155_289f7086.npy,friday,63,MVI_9155.MP4,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_9155.MP4,1.00
+friday/MVI_9156_6f3f0a56.npy,friday,65,MVI_9156.MP4,Days_and_Time_1of3/Days_and_Time/71. Friday/MVI_9156.MP4,1.00
+good_afternoon/MVI_0046_01e73613.npy,good_afternoon,91,MVI_0046.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0046.MOV,1.00
+good_afternoon/MVI_0047_3c871fa3.npy,good_afternoon,87,MVI_0047.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0047.MOV,1.00
+good_afternoon/MVI_0048_bed78872.npy,good_afternoon,87,MVI_0048.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0048.MOV,1.00
+good_afternoon/MVI_0049_83b7a1c2.npy,good_afternoon,55,MVI_0049.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0049.MOV,1.00
+good_afternoon/MVI_0050_45fb1016.npy,good_afternoon,57,MVI_0050.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0050.MOV,1.00
+good_afternoon/MVI_0050_ (1)_bb45e644.npy,good_afternoon,87,MVI_0050_ (1).MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0050_ (1).MOV,1.00
+good_afternoon/MVI_0050_ (2)_3dd194ea.npy,good_afternoon,90,MVI_0050_ (2).MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0050_ (2).MOV,1.00
+good_afternoon/MVI_0051_789b39a6.npy,good_afternoon,56,MVI_0051.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0051.MOV,1.00
+good_afternoon/MVI_0101_8e21a3a1.npy,good_afternoon,69,MVI_0101.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0101.MOV,1.00
+good_afternoon/MVI_0102_c981d971.npy,good_afternoon,74,MVI_0102.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0102.MOV,1.00
+good_afternoon/MVI_0103_f4e1f0c1.npy,good_afternoon,73,MVI_0103.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_0103.MOV,0.86
+good_afternoon/MVI_9936_96355853.npy,good_afternoon,67,MVI_9936.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9936.MOV,1.00
+good_afternoon/MVI_9937_ab5571e3.npy,good_afternoon,55,MVI_9937.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9937.MOV,1.00
+good_afternoon/MVI_9938_2905e632.npy,good_afternoon,51,MVI_9938.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9938.MOV,1.00
+good_afternoon/MVI_9939_1465cf82.npy,good_afternoon,47,MVI_9939.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9939.MOV,1.00
+good_afternoon/MVI_9972_f824bc85.npy,good_afternoon,63,MVI_9972.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9972.MOV,1.00
+good_afternoon/MVI_9973_c5449535.npy,good_afternoon,63,MVI_9973.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9973.MOV,1.00
+good_afternoon/MVI_9974_77644925.npy,good_afternoon,75,MVI_9974.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9974.MOV,1.00
+good_afternoon/MVI_9975_4a046095.npy,good_afternoon,60,MVI_9975.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9975.MOV,1.00
+good_afternoon/MVI_9994_4d6e2855.npy,good_afternoon,55,MVI_9994.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9994.MOV,1.00
+good_afternoon/MVI_9995_700e01e5.npy,good_afternoon,63,MVI_9995.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9995.MOV,1.00
+good_afternoon/MVI_9996_37ae7b35.npy,good_afternoon,60,MVI_9996.MOV,Greetings_1of2/Greetings/52. Good afternoon/MVI_9996.MOV,1.00
+good_morning/MVI_0042_4c2016e1.npy,good_morning,85,MVI_0042.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0042.MOV,1.00
+good_morning/MVI_0043_71403f51.npy,good_morning,83,MVI_0043.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0043.MOV,1.00
+good_morning/MVI_0044_c360e341.npy,good_morning,85,MVI_0044.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0044.MOV,1.00
+good_morning/MVI_0045_fe00caf1.npy,good_morning,90,MVI_0045.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0045.MOV,1.00
+good_morning/MVI_0046_b9a0b021.npy,good_morning,62,MVI_0046.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0046.MOV,1.00
+good_morning/MVI_0047_84c09991.npy,good_morning,59,MVI_0047.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0047.MOV,1.00
+good_morning/MVI_0048_06900e40.npy,good_morning,41,MVI_0048.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0048.MOV,1.00
+good_morning/MVI_0098_ba0e1d9e.npy,good_morning,66,MVI_0098.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0098.MOV,1.00
+good_morning/MVI_0099_876e342e.npy,good_morning,66,MVI_0099.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0099.MOV,1.00
+good_morning/MVI_0100_0b060c23.npy,good_morning,63,MVI_0100.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_0100.MOV,1.00
+good_morning/MVI_9932_dbf278a1.npy,good_morning,56,MVI_9932.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9932.MOV,1.00
+good_morning/MVI_9933_e6925111.npy,good_morning,53,MVI_9933.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9933.MOV,1.00
+good_morning/MVI_9934_54b28d01.npy,good_morning,56,MVI_9934.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9934.MOV,1.00
+good_morning/MVI_9935_69d2a4b1.npy,good_morning,48,MVI_9935.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9935.MOV,1.00
+good_morning/MVI_9968_c18ff1b3.npy,good_morning,70,MVI_9968.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9968.MOV,1.00
+good_morning/MVI_9969_fcefd803.npy,good_morning,80,MVI_9969.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9969.MOV,1.00
+good_morning/MVI_9970_3aa369d7.npy,good_morning,82,MVI_9970.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9970.MOV,1.00
+good_morning/MVI_9971_07c34067.npy,good_morning,75,MVI_9971.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9971.MOV,1.00
+good_morning/MVI_9991_3dc92117.npy,good_morning,58,MVI_9991.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9991.MOV,1.00
+good_morning/MVI_9992_7a695bc7.npy,good_morning,58,MVI_9992.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9992.MOV,1.00
+good_morning/MVI_9993_47097277.npy,good_morning,64,MVI_9993.MOV,Greetings_1of2/Greetings/51. Good Morning/MVI_9993.MOV,1.00
+happy/MVI_5183_ba6fe3c5.npy,happy,71,MVI_5183.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_5183.MOV,0.86
+happy/MVI_5184_084f3fd5.npy,happy,69,MVI_5184.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_5184.MOV,0.87
+happy/MVI_5185_352f1665.npy,happy,78,MVI_5185.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_5185.MOV,0.90
+happy/MVI_5263_b18d9828.npy,happy,53,MVI_5263.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_5263.MOV,0.85
+happy/MVI_5264_03ad4438.npy,happy,56,MVI_5264.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_5264.MOV,0.79
+happy/MVI_5265_3ecd6d88.npy,happy,48,MVI_5265.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_5265.MOV,0.79
+happy/MVI_5341_20f261f7.npy,happy,41,MVI_5341.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_5341.MOV,0.73
+happy/MVI_5342_67521b27.npy,happy,53,MVI_5342.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_5342.MOV,0.79
+happy/MVI_5343_5a323297.npy,happy,73,MVI_5343.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_5343.MOV,0.88
+happy/MVI_9295_9834ca12.npy,happy,48,MVI_9295.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9295.MOV,0.69
+happy/MVI_9296_df94b0c2.npy,happy,50,MVI_9296.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9296.MOV,0.80
+happy/MVI_9297_e2f49972.npy,happy,48,MVI_9297.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9297.MOV,0.75
+happy/MVI_9374_39298966.npy,happy,45,MVI_9374.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9374.MOV,0.71
+happy/MVI_9375_0449a0d6.npy,happy,41,MVI_9375.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9375.MOV,0.78
+happy/MVI_9376_43e9da06.npy,happy,36,MVI_9376.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9376.MOV,0.75
+happy/MVI_9454_b14616e3.npy,happy,44,MVI_9454.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9454.MOV,0.68
+happy/MVI_9455_8c263f53.npy,happy,51,MVI_9455.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9455.MOV,0.73
+happy/MVI_9456_cb864583.npy,happy,43,MVI_9456.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9456.MOV,0.67
+happy/MVI_9540_29ed6832.npy,happy,50,MVI_9540.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9540.MOV,0.84
+happy/MVI_9541_148d4182.npy,happy,57,MVI_9541.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9541.MOV,0.88
+happy/MVI_9542_532d3b52.npy,happy,58,MVI_9542.MOV,Adjectives_1of8/Adjectives/3. happy/MVI_9542.MOV,0.90
+he/MVI_0005_c020a166.npy,he,75,MVI_0005.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0005.MOV,1.00
+he/MVI_0006_8780dbb6.npy,he,79,MVI_0006.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0006.MOV,1.00
+he/MVI_0007_bae0f206.npy,he,75,MVI_0007.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0007.MOV,1.00
+he/MVI_0008_38b065d7.npy,he,70,MVI_0008.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0008.MOV,1.00
+he/MVI_0018_f3ecb672.npy,he,42,MVI_0018.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0018.MOV,1.00
+he/MVI_0019_ce8c9fc2.npy,he,57,MVI_0019.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0019.MOV,1.00
+he/MVI_0020_45088f1d.npy,he,53,MVI_0020.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0020.MOV,1.00
+he/MVI_0070_15c51eae.npy,he,72,MVI_0070.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0070.MOV,1.00
+he/MVI_0071_28a5371e.npy,he,78,MVI_0071.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0071.MOV,1.00
+he/MVI_0072_6f054dce.npy,he,78,MVI_0072.MOV,Pronouns_1of2/Pronouns/42. he/MVI_0072.MOV,0.96
+he/MVI_9889_c5239b46.npy,he,49,MVI_9889.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9889.MOV,1.00
+he/MVI_9890_036f2a92.npy,he,54,MVI_9890.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9890.MOV,1.00
+he/MVI_9891_3e0f0322.npy,he,51,MVI_9891.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9891.MOV,1.00
+he/MVI_9892_79af79f2.npy,he,50,MVI_9892.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9892.MOV,1.00
+he/MVI_9927_7dff0df5.npy,he,95,MVI_9927.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9927.MOV,1.00
+he/MVI_9928_ffaf9a24.npy,he,92,MVI_9928.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9928.MOV,1.00
+he/MVI_9930_04830240.npy,he,76,MVI_9930.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9930.MOV,1.00
+he/MVI_9931_39e32bf0.npy,he,86,MVI_9931.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9931.MOV,1.00
+he/MVI_9963_13eee923.npy,he,51,MVI_9963.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9963.MOV,1.00
+he/MVI_9964_a1ce3533.npy,he,61,MVI_9964.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9964.MOV,1.00
+he/MVI_9965_9cae1c83.npy,he,56,MVI_9965.MOV,Pronouns_1of2/Pronouns/42. he/MVI_9965.MOV,1.00
+hello/MVI_0029_88e4ba00.npy,hello,63,MVI_0029.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0029.MOV,1.00
+hello/MVI_0030_4ea80bd4.npy,hello,74,MVI_0030.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0030.MOV,1.00
+hello/MVI_0031_73c82264.npy,hello,65,MVI_0031.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0031.MOV,1.00
+hello/MVI_0032_346858b4.npy,hello,61,MVI_0032.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0032.MOV,1.00
+hello/MVI_0037_fc88d7c4.npy,hello,49,MVI_0037.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0037.MOV,1.00
+hello/MVI_0038_7ed84015.npy,hello,56,MVI_0038.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0038.MOV,1.00
+hello/MVI_0039_43b869a5.npy,hello,52,MVI_0039.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0039.MOV,1.00
+hello/MVI_0089_297f9966.npy,hello,68,MVI_0089.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0089.MOV,1.00
+hello/MVI_0090_ef3328b2.npy,hello,69,MVI_0090.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0090.MOV,1.00
+hello/MVI_0091_d2530102.npy,hello,80,MVI_0091.MOV,Greetings_1of2/Greetings/48. Hello/MVI_0091.MOV,1.00
+hello/MVI_9914_7c3752e7.npy,hello,53,MVI_9914.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9914.MOV,1.00
+hello/MVI_9915_41577b57.npy,hello,52,MVI_9915.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9915.MOV,1.00
+hello/MVI_9916_06f70187.npy,hello,50,MVI_9916.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9916.MOV,1.00
+hello/MVI_9917_3b972837.npy,hello,49,MVI_9917.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9917.MOV,1.00
+hello/MVI_9954_e7a610f1.npy,hello,69,MVI_9954.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9954.MOV,1.00
+hello/MVI_9955_dac63941.npy,hello,84,MVI_9955.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9955.MOV,1.00
+hello/MVI_9956_9d664391.npy,hello,76,MVI_9956.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9956.MOV,1.00
+hello/MVI_9957_a0066a21.npy,hello,79,MVI_9957.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9957.MOV,1.00
+hello/MVI_9982_d478f68f.npy,hello,51,MVI_9982.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9982.MOV,1.00
+hello/MVI_9983_e918df3f.npy,hello,53,MVI_9983.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9983.MOV,1.00
+hello/MVI_9984_5b38032f.npy,hello,47,MVI_9984.MOV,Greetings_1of2/Greetings/48. Hello/MVI_9984.MOV,1.00
+hour/MVI_4639_1acf173b.npy,hour,65,MVI_4639.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_4639.MOV,0.85
+hour/MVI_4640_0ada45f2.npy,hour,58,MVI_4640.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_4640.MOV,0.83
+hour/MVI_4641_37ba6c42.npy,hour,54,MVI_4641.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_4641.MOV,0.80
+hour/MVI_4642_701a1692.npy,hour,67,MVI_4642.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_4642.MOV,0.87
+hour/MVI_5051_539c8a43.npy,hour,51,MVI_5051.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_5051.MOV,0.39
+hour/MVI_5052_143cf093.npy,hour,52,MVI_5052.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_5052.MOV,0.33
+hour/MVI_5495_2591c8eb.npy,hour,45,MVI_5495.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_5495.MOV,0.93
+hour/MVI_5496_6231b23b.npy,hour,52,MVI_5496.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_5496.MOV,0.92
+hour/MVI_5497_5f519b8b.npy,hour,51,MVI_5497.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_5497.MOV,0.94
+hour/MVI_5498_dd010c5a.npy,hour,47,MVI_5498.MOV,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_5498.MOV,0.98
+hour/MVI_9179_b11a7098.npy,hour,66,MVI_9179.MP4,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_9179.MP4,0.94
+hour/MVI_9180_4d5ca03c.npy,hour,67,MVI_9180.MP4,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_9180.MP4,0.93
+hour/MVI_9181_703c898c.npy,hour,61,MVI_9181.MP4,Days_and_Time_2of3/Days_and_Time/79. Hour/MVI_9181.MP4,0.92
+house/MVI_3439_b550e0c7.npy,house,57,MVI_3439.MOV,Places_1of4/Places/19. House/Extra/MVI_3439.MOV,0.81
+house/MVI_3267_f668724c.npy,house,78,MVI_3267.MOV,Places_1of4/Places/19. House/MVI_3267.MOV,0.85
+house/MVI_3268_7438e59d.npy,house,75,MVI_3268.MOV,Places_1of4/Places/19. House/MVI_3268.MOV,0.85
+house/MVI_3269_4958cc2d.npy,house,61,MVI_3269.MOV,Places_1of4/Places/19. House/MVI_3269.MOV,0.80
+house/MVI_3270_8f147df9.npy,house,74,MVI_3270.MOV,Places_1of4/Places/19. House/MVI_3270.MOV,0.86
+house/MVI_3349_a2e76692.npy,house,66,MVI_3349.MOV,Places_1of4/Places/19. House/MVI_3349.MOV,0.79
+house/MVI_3350_64abd746.npy,house,54,MVI_3350.MOV,Places_1of4/Places/19. House/MVI_3350.MOV,0.80
+house/MVI_3351_59cbfef6.npy,house,58,MVI_3351.MOV,Places_1of4/Places/19. House/MVI_3351.MOV,0.81
+house/MVI_3352_1e6b8426.npy,house,56,MVI_3352.MOV,Places_1of4/Places/19. House/MVI_3352.MOV,0.80
+house/MVI_3435_bfb585a5.npy,house,65,MVI_3435.MOV,Places_1of4/Places/19. House/MVI_3435.MOV,0.88
+house/MVI_3436_f815ff75.npy,house,64,MVI_3436.MOV,Places_1of4/Places/19. House/MVI_3436.MOV,0.92
+house/MVI_3437_c575d6c5.npy,house,67,MVI_3437.MOV,Places_1of4/Places/19. House/MVI_3437.MOV,0.85
+house/MVI_3438_47254114.npy,house,58,MVI_3438.MOV,Places_1of4/Places/19. House/MVI_3438.MOV,0.83
+house/MVI_3513_db4adaba.npy,house,53,MVI_3513.MOV,Places_1of4/Places/19. House/MVI_3513.MOV,0.70
+house/MVI_3514_696a06aa.npy,house,48,MVI_3514.MOV,Places_1of4/Places/19. House/MVI_3514.MOV,0.62
+house/MVI_3515_540a2f1a.npy,house,45,MVI_3515.MOV,Places_1of4/Places/19. House/MVI_3515.MOV,0.62
+house/MVI_3516_13aa55ca.npy,house,48,MVI_3516.MOV,Places_1of4/Places/19. House/MVI_3516.MOV,0.81
+house/MVI_3593_371958d7.npy,house,63,MVI_3593.MOV,Places_1of4/Places/19. House/MVI_3593.MOV,0.79
+house/MVI_3594_853984c7.npy,house,57,MVI_3594.MOV,Places_1of4/Places/19. House/MVI_3594.MOV,0.79
+house/MVI_3595_b859ad77.npy,house,58,MVI_3595.MOV,Places_1of4/Places/19. House/MVI_3595.MOV,0.79
+house/MVI_3596_fff9d7a7.npy,house,54,MVI_3596.MOV,Places_1of4/Places/19. House/MVI_3596.MOV,0.78
+how_are_you/MVI_0033_b6176f28.npy,how_are_you,81,MVI_0033.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0033.MOV,0.95
+how_are_you/MVI_0034_0437b338.npy,how_are_you,92,MVI_0034.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0034.MOV,0.97
+how_are_you/MVI_0035_39579a88.npy,how_are_you,96,MVI_0035.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0035.MOV,0.93
+how_are_you/MVI_0036_7ef7e058.npy,how_are_you,95,MVI_0036.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0036.MOV,0.93
+how_are_you/MVI_0040_ecb22540.npy,how_are_you,60,MVI_0040.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0040.MOV,0.93
+how_are_you/MVI_0041_d1d20cf0.npy,how_are_you,71,MVI_0041.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0041.MOV,0.94
+how_are_you/MVI_0042_96727620.npy,how_are_you,66,MVI_0042.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0042.MOV,0.92
+how_are_you/MVI_0092_2aec65fe.npy,how_are_you,83,MVI_0092.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0092.MOV,0.86
+how_are_you/MVI_0093_178c4c4e.npy,how_are_you,100,MVI_0093.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0093.MOV,0.89
+how_are_you/MVI_0094_a5ac905e.npy,how_are_you,95,MVI_0094.MOV,Greetings_1of2/Greetings/49. How are you/MVI_0094.MOV,0.88
+how_are_you/MVI_9918_06d8a1ca.npy,how_are_you,68,MVI_9918.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9918.MOV,0.91
+how_are_you/MVI_9919_3bb8887a.npy,how_are_you,71,MVI_9919.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9919.MOV,0.87
+how_are_you/MVI_9920_b03c98a5.npy,how_are_you,70,MVI_9920.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9920.MOV,0.91
+how_are_you/MVI_9921_8d5cb115.npy,how_are_you,65,MVI_9921.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9921.MOV,0.91
+how_are_you/MVI_9959_a029ca6c.npy,how_are_you,89,MVI_9959.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9959.MOV,0.96
+how_are_you/MVI_9960_2baddab3.npy,how_are_you,86,MVI_9960.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9960.MOV,0.98
+how_are_you/MVI_9961_16cdf303.npy,how_are_you,92,MVI_9961.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9961.MOV,0.96
+how_are_you/MVI_9962_516d89d3.npy,how_are_you,94,MVI_9962.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9962.MOV,0.96
+how_are_you/MVI_9985_d94734b3.npy,how_are_you,67,MVI_9985.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9985.MOV,0.94
+how_are_you/MVI_9986_9ee74e63.npy,how_are_you,67,MVI_9986.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9986.MOV,0.97
+how_are_you/MVI_9987_a38767d3.npy,how_are_you,68,MVI_9987.MOV,Greetings_1of2/Greetings/49. How are you/MVI_9987.MOV,0.94
+i/MVI_0001_799ce16f.npy,i,66,MVI_0001.MOV,Pronouns_1of2/Pronouns/40. I/MVI_0001.MOV,1.00
+i/MVI_0002_3e3c9bbf.npy,i,89,MVI_0002.MOV,Pronouns_1of2/Pronouns/40. I/MVI_0002.MOV,1.00
+i/MVI_0003_035cb20f.npy,i,52,MVI_0003.MOV,Pronouns_1of2/Pronouns/40. I/MVI_0003.MOV,1.00
+i/MVI_0012_f560481a.npy,i,45,MVI_0012.MOV,Pronouns_1of2/Pronouns/40. I/MVI_0012.MOV,1.00
+i/MVI_0013_c80061aa.npy,i,43,MVI_0013.MOV,Pronouns_1of2/Pronouns/40. I/MVI_0013.MOV,1.00
+i/MVI_0014_7a20bdba.npy,i,45,MVI_0014.MOV,Pronouns_1of2/Pronouns/40. I/MVI_0014.MOV,1.00
+i/MVI_0064_67258d02.npy,i,65,MVI_0064.MOV,Pronouns_1of2/Pronouns/40. I/MVI_0064.MOV,1.00
+i/MVI_0065_5a45a4b2.npy,i,71,MVI_0065.MOV,Pronouns_1of2/Pronouns/40. I/MVI_0065.MOV,1.00
+i/MVI_0066_1de5de62.npy,i,65,MVI_0066.MOV,Pronouns_1of2/Pronouns/40. I/MVI_0066.MOV,1.00
+i/MVI_9878_4529e6ea.npy,i,48,MVI_9878.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9878.MOV,1.00
+i/MVI_9879_7849cf5a.npy,i,53,MVI_9879.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9879.MOV,1.00
+i/MVI_9880_840f1ffe.npy,i,54,MVI_9880.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9880.MOV,1.00
+i/MVI_9881_b96f364e.npy,i,50,MVI_9881.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9881.MOV,1.00
+i/MVI_9918_35070e43.npy,i,83,MVI_9918.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9918.MOV,1.00
+i/MVI_9919_086727f3.npy,i,81,MVI_9919.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9919.MOV,1.00
+i/MVI_9920_83e3372c.npy,i,80,MVI_9920.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9920.MOV,1.00
+i/MVI_9922_f923644c.npy,i,68,MVI_9922.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9922.MOV,1.00
+i/MVI_9957_2cc6db84.npy,i,46,MVI_9957.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9957.MOV,1.00
+i/MVI_9958_ae964c55.npy,i,47,MVI_9958.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9958.MOV,1.00
+i/MVI_9959_93f665e5.npy,i,50,MVI_9959.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9959.MOV,1.00
+i/MVI_9995_21c4489f.npy,i,74,MVI_9995.MOV,Pronouns_1of2/Pronouns/40. I/MVI_9995.MOV,1.00
+it/MVI_0013_c8063d14.npy,it,66,MVI_0013.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0013.MOV,1.00
+it/MVI_0014_7a26e104.npy,it,78,MVI_0014.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0014.MOV,1.00
+it/MVI_0015_4746c8b4.npy,it,73,MVI_0015.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0015.MOV,1.00
+it/MVI_0016_00e6b264.npy,it,70,MVI_0016.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0016.MOV,1.00
+it/MVI_0024_fcb293aa.npy,it,43,MVI_0024.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0024.MOV,1.00
+it/MVI_0025_c1d2ba1a.npy,it,40,MVI_0025.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0025.MOV,1.00
+it/MVI_0026_8672c0ca.npy,it,43,MVI_0026.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0026.MOV,1.00
+it/MVI_0076_d6bf5179.npy,it,61,MVI_0076.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0076.MOV,1.00
+it/MVI_0077_ebdf78c9.npy,it,68,MVI_0077.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0077.MOV,0.97
+it/MVI_0078_698fef18.npy,it,58,MVI_0078.MOV,Pronouns_1of2/Pronouns/44. it/MVI_0078.MOV,1.00
+it/MVI_9897_fd754cf5.npy,it,44,MVI_9897.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9897.MOV,1.00
+it/MVI_9898_7f25db24.npy,it,46,MVI_9898.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9898.MOV,1.00
+it/MVI_9899_4245f294.npy,it,44,MVI_9899.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9899.MOV,1.00
+it/MVI_9900_ce2dca99.npy,it,50,MVI_9900.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9900.MOV,1.00
+it/MVI_9936_c7f94d97.npy,it,74,MVI_9936.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9936.MOV,1.00
+it/MVI_9937_fa996427.npy,it,87,MVI_9937.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9937.MOV,1.00
+it/MVI_9938_78c9f3f6.npy,it,68,MVI_9938.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9938.MOV,1.00
+it/MVI_9939_45a9da46.npy,it,74,MVI_9939.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9939.MOV,1.00
+it/MVI_9969_15644bf5.npy,it,44,MVI_9969.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9969.MOV,1.00
+it/MVI_9970_d328fa21.npy,it,48,MVI_9970.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9970.MOV,1.00
+it/MVI_9971_ee48d391.npy,it,47,MVI_9971.MOV,Pronouns_1of2/Pronouns/44. it/MVI_9971.MOV,1.00
+loose/MVI_9650_88668cb5.npy,loose,66,MVI_9650.MOV,Adjectives_2of8/Adjectives/22. loose/MVI_9650.MOV,0.85
+loose/MVI_9651_b506a505.npy,loose,64,MVI_9651.MOV,Adjectives_2of8/Adjectives/22. loose/MVI_9651.MOV,0.86
+loose/MVI_9652_f2a6dfd5.npy,loose,66,MVI_9652.MOV,Adjectives_2of8/Adjectives/22. loose/MVI_9652.MOV,0.88
+loose/MVI_9653_cfc6f665.npy,loose,72,MVI_9653.MOV,Adjectives_2of8/Adjectives/22. loose/MVI_9653.MOV,0.92
+loose/MVI_9775_ab39a97a.npy,loose,67,MVI_9775.MOV,Adjectives_2of8/Adjectives/22. loose/MVI_9775.MOV,0.93
+loose/MVI_9776_ec99d3aa.npy,loose,73,MVI_9776.MOV,Adjectives_2of8/Adjectives/22. loose/MVI_9776.MOV,0.96
+loose/MVI_9777_d1f9fa1a.npy,loose,70,MVI_9777.MOV,Adjectives_2of8/Adjectives/22. loose/MVI_9777.MOV,0.89
+loose/MVI_9778_53a96dcb.npy,loose,69,MVI_9778.MOV,Adjectives_2of8/Adjectives/22. loose/MVI_9778.MOV,0.93
+loud/MVI_5177_d31e7e6f.npy,loud,56,MVI_5177.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_5177.MOV,0.86
+loud/MVI_5178_514ee9be.npy,loud,64,MVI_5178.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_5178.MOV,0.91
+loud/MVI_5179_6c2ec00e.npy,loud,66,MVI_5179.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_5179.MOV,0.91
+loud/MVI_5257_af3ec5f9.npy,loud,52,MVI_5257.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_5257.MOV,0.88
+loud/MVI_5258_2d6e5228.npy,loud,76,MVI_5258.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_5258.MOV,0.92
+loud/MVI_5259_100e7b98.npy,loud,64,MVI_5259.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_5259.MOV,0.89
+loud/MVI_5335_a5d07e30.npy,loud,45,MVI_5335.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_5335.MOV,0.89
+loud/MVI_5336_e27004e0.npy,loud,42,MVI_5336.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_5336.MOV,0.83
+loud/MVI_5337_df102d50.npy,loud,48,MVI_5337.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_5337.MOV,0.88
+loud/MVI_9289_fb3f7d09.npy,loud,55,MVI_9289.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9289.MOV,0.82
+loud/MVI_9290_3d73ccdd.npy,loud,64,MVI_9290.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9290.MOV,0.89
+loud/MVI_9291_0013e56d.npy,loud,63,MVI_9291.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9291.MOV,0.87
+loud/MVI_9368_5a223e7d.npy,loud,47,MVI_9368.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9368.MOV,0.83
+loud/MVI_9369_674217cd.npy,loud,48,MVI_9369.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9369.MOV,0.79
+loud/MVI_9370_a10ea619.npy,loud,46,MVI_9370.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9370.MOV,0.72
+loud/MVI_9448_d24da1f8.npy,loud,56,MVI_9448.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9448.MOV,0.77
+loud/MVI_9449_ef2d8848.npy,loud,47,MVI_9449.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9449.MOV,0.81
+loud/MVI_9450_2961399c.npy,loud,50,MVI_9450.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9450.MOV,0.82
+loud/MVI_9534_accf77f5.npy,loud,56,MVI_9534.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9534.MOV,0.91
+loud/MVI_9535_91af5e45.npy,loud,65,MVI_9535.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9535.MOV,0.97
+loud/MVI_9536_d60f2495.npy,loud,57,MVI_9536.MOV,Adjectives_1of8/Adjectives/1. loud/MVI_9536.MOV,0.98
+male/MVI_9637_a12139e2.npy,male,59,MVI_9637.MOV,Adjectives_2of8/Adjectives/19. male/MVI_9637.MOV,1.00
+male/MVI_9638_2371ae33.npy,male,80,MVI_9638.MOV,Adjectives_2of8/Adjectives/19. male/MVI_9638.MOV,1.00
+male/MVI_9639_1e118783.npy,male,60,MVI_9639.MOV,Adjectives_2of8/Adjectives/19. male/MVI_9639.MOV,1.00
+male/MVI_9640_0e04d54a.npy,male,73,MVI_9640.MOV,Adjectives_2of8/Adjectives/19. male/MVI_9640.MOV,1.00
+male/MVI_9763_a21b0525.npy,male,61,MVI_9763.MOV,Adjectives_2of8/Adjectives/19. male/MVI_9763.MOV,1.00
+male/MVI_9764_103bd935.npy,male,61,MVI_9764.MOV,Adjectives_2of8/Adjectives/19. male/MVI_9764.MOV,1.00
+male/MVI_9765_2d5bf085.npy,male,54,MVI_9765.MOV,Adjectives_2of8/Adjectives/19. male/MVI_9765.MOV,1.00
+male/MVI_9766_6afb8a55.npy,male,52,MVI_9766.MOV,Adjectives_2of8/Adjectives/19. male/MVI_9766.MOV,1.00
+mean/MVI_9592_48aa5501.npy,mean,56,MVI_9592.MOV,Adjectives_2of8/Adjectives/10. Mean/MVI_9592.MOV,1.00
+mean/MVI_9593_75ca7cb1.npy,mean,47,MVI_9593.MOV,Adjectives_2of8/Adjectives/10. Mean/MVI_9593.MOV,1.00
+mean/MVI_9594_c7eaa0a1.npy,mean,49,MVI_9594.MOV,Adjectives_2of8/Adjectives/10. Mean/MVI_9594.MOV,1.00
+mean/MVI_9595_fa8a8911.npy,mean,54,MVI_9595.MOV,Adjectives_2of8/Adjectives/10. Mean/MVI_9595.MOV,1.00
+mean/MVI_9729_c22285fa.npy,mean,69,MVI_9729.MOV,Adjectives_2of8/Adjectives/10. Mean/MVI_9729.MOV,1.00
+mean/MVI_9730_046e342e.npy,mean,63,MVI_9730.MOV,Adjectives_2of8/Adjectives/10. Mean/MVI_9730.MOV,1.00
+mean/MVI_9731_390e1d9e.npy,mean,57,MVI_9731.MOV,Adjectives_2of8/Adjectives/10. Mean/MVI_9731.MOV,1.00
+mean/MVI_9732_7eae674e.npy,mean,58,MVI_9732.MOV,Adjectives_2of8/Adjectives/10. Mean/MVI_9732.MOV,1.00
+minute/MVI_4643_2f28ac96.npy,minute,56,MVI_4643.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_4643.MOV,1.00
+minute/MVI_4644_9d087086.npy,minute,57,MVI_4644.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_4644.MOV,1.00
+minute/MVI_4645_a0685936.npy,minute,63,MVI_4645.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_4645.MOV,1.00
+minute/MVI_4646_e7c823e6.npy,minute,61,MVI_4646.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_4646.MOV,0.92
+minute/MVI_5053_4b0e4a97.npy,minute,49,MVI_5053.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_5053.MOV,0.67
+minute/MVI_5054_f92e9687.npy,minute,49,MVI_5054.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_5054.MOV,0.57
+minute/MVI_5055_c44ebf37.npy,minute,48,MVI_5055.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_5055.MOV,0.60
+minute/MVI_5499_8233b65e.npy,minute,40,MVI_5499.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_5499.MOV,1.00
+minute/MVI_5500_0e5b8e53.npy,minute,36,MVI_5500.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_5500.MOV,1.00
+minute/MVI_5501_333ba7e3.npy,minute,36,MVI_5501.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_5501.MOV,1.00
+minute/MVI_5502_749bdd33.npy,minute,37,MVI_5502.MOV,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_5502.MOV,1.00
+minute/MVI_9182_55ce60e8.npy,minute,68,MVI_9182.MP4,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_9182.MP4,1.00
+minute/MVI_9183_68ae4958.npy,minute,65,MVI_9183.MP4,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_9183.MP4,1.00
+minute/MVI_9184_da8e9548.npy,minute,61,MVI_9184.MP4,Days_and_Time_2of3/Days_and_Time/80. Minute/MVI_9184.MP4,1.00
+monday/MVI_4591_159eedd5.npy,monday,57,MVI_4591.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_4591.MOV,0.82
+monday/MVI_4592_523e9705.npy,monday,54,MVI_4592.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_4592.MOV,0.61
+monday/MVI_4593_6f5ebeb5.npy,monday,60,MVI_4593.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_4593.MOV,0.80
+monday/MVI_4594_dd7e62a5.npy,monday,59,MVI_4594.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_4594.MOV,0.85
+monday/MVI_5009_9c73d8e5.npy,monday,47,MVI_5009.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_5009.MOV,0.77
+monday/MVI_5010_5a3f6931.npy,monday,47,MVI_5010.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_5010.MOV,0.81
+monday/MVI_5011_675f4081.npy,monday,54,MVI_5011.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_5011.MOV,0.74
+monday/MVI_5446_71fd2931.npy,monday,52,MVI_5446.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_5446.MOV,0.81
+monday/MVI_5447_4c9d0081.npy,monday,53,MVI_5447.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_5447.MOV,0.79
+monday/MVI_5448_cecd9750.npy,monday,54,MVI_5448.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_5448.MOV,0.83
+monday/MVI_5449_f3adbee0.npy,monday,51,MVI_5449.MOV,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_5449.MOV,0.82
+monday/MVI_9142_ef0cbbf3.npy,monday,63,MVI_9142.MP4,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_9142.MP4,0.84
+monday/MVI_9143_d26c9243.npy,monday,70,MVI_9143.MP4,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_9143.MP4,0.84
+monday/MVI_9144_604c4e53.npy,monday,58,MVI_9144.MP4,Days_and_Time_1of3/Days_and_Time/67. Monday/MVI_9144.MP4,0.79
+month/MVI_4631_54d01a80.npy,month,56,MVI_4631.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_4631.MOV,0.77
+month/MVI_4632_13706050.npy,month,57,MVI_4632.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_4632.MOV,0.84
+month/MVI_4633_2e1049e0.npy,month,52,MVI_4633.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_4633.MOV,0.77
+month/MVI_4634_9c3095f0.npy,month,51,MVI_4634.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_4634.MOV,0.80
+month/MVI_5044_2e4f90ec.npy,month,50,MVI_5044.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_5044.MOV,0.76
+month/MVI_5045_132fb95c.npy,month,49,MVI_5045.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_5045.MOV,0.67
+month/MVI_5046_548fc38c.npy,month,40,MVI_5046.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_5046.MOV,0.72
+month/MVI_5487_ea620e54.npy,month,39,MVI_5487.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_5487.MOV,0.74
+month/MVI_5488_68329985.npy,month,43,MVI_5488.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_5488.MOV,0.72
+month/MVI_5489_5552b035.npy,month,44,MVI_5489.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_5489.MOV,0.77
+month/MVI_5490_931e01e1.npy,month,44,MVI_5490.MOV,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_5490.MOV,0.77
+month/MVI_9172_b8a507f3.npy,month,58,MVI_9172.MP4,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_9172.MP4,0.76
+month/MVI_9173_85c52e43.npy,month,55,MVI_9173.MP4,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_9173.MP4,0.73
+month/MVI_9174_37e5f253.npy,month,64,MVI_9174.MP4,Days_and_Time_2of3/Days_and_Time/77. Month/MVI_9174.MP4,0.81
+mother/MVI_3760_adbaceac.npy,mother,50,MVI_3760.MOV,People_1of5/People/60. Mother/MVI_3760.MOV,1.00
+mother/MVI_3761_90dae71c.npy,mother,50,MVI_3761.MOV,People_1of5/People/60. Mother/MVI_3761.MOV,1.00
+mother/MVI_3762_d77a9dcc.npy,mother,46,MVI_3762.MOV,People_1of5/People/60. Mother/MVI_3762.MOV,1.00
+mother/MVI_3906_a49ca34c.npy,mother,66,MVI_3906.MOV,People_1of5/People/60. Mother/MVI_3906.MOV,1.00
+mother/MVI_3907_99fc8afc.npy,mother,66,MVI_3907.MOV,People_1of5/People/60. Mother/MVI_3907.MOV,1.00
+mother/MVI_3908_1bac1d2d.npy,mother,75,MVI_3908.MOV,People_1of5/People/60. Mother/MVI_3908.MOV,1.00
+mother/MVI_4057_566c5785.npy,mother,59,MVI_4057.MOV,People_1of5/People/60. Mother/MVI_4057.MOV,1.00
+mother/MVI_4058_d43cc054.npy,mother,61,MVI_4058.MOV,People_1of5/People/60. Mother/MVI_4058.MOV,1.00
+mother/MVI_4059_e95ce9e4.npy,mother,61,MVI_4059.MOV,People_1of5/People/60. Mother/MVI_4059.MOV,1.00
+mother/MVI_4222_1416f964.npy,mother,52,MVI_4222.MOV,People_1of5/People/60. Mother/MVI_4222.MOV,1.00
+mother/MVI_4937_15adf14b.npy,mother,53,MVI_4937.MOV,People_1of5/People/60. Mother/MVI_4937.MOV,1.00
+mother/MVI_4938_97fd669a.npy,mother,53,MVI_4938.MOV,People_1of5/People/60. Mother/MVI_4938.MOV,1.00
+mother/MVI_4939_aa9d4f2a.npy,mother,57,MVI_4939.MOV,People_1of5/People/60. Mother/MVI_4939.MOV,1.00
+mother/MVI_5077_d70ef610.npy,mother,51,MVI_5077.MOV,People_1of5/People/60. Mother/MVI_5077.MOV,1.00
+mother/MVI_5078_555e61c1.npy,mother,56,MVI_5078.MOV,People_1of5/People/60. Mother/MVI_5078.MOV,0.80
+mother/MVI_5079_683e4871.npy,mother,54,MVI_5079.MOV,People_1of5/People/60. Mother/MVI_5079.MOV,0.87
+mother/MVI_5224_57fc0c5a.npy,mother,49,MVI_5224.MOV,People_1of5/People/60. Mother/MVI_5224.MOV,1.00
+mother/MVI_5225_6a9c25ea.npy,mother,54,MVI_5225.MOV,People_1of5/People/60. Mother/MVI_5225.MOV,1.00
+mother/MVI_5226_2d3c5f3a.npy,mother,49,MVI_5226.MOV,People_1of5/People/60. Mother/MVI_5226.MOV,1.00
+mother/MVI_8625_6b301ac2.npy,mother,61,MVI_8625.MP4,People_1of5/People/60. Mother/MVI_8625.MP4,0.92
+parent/MVI_3766_b9a65329.npy,parent,74,MVI_3766.MOV,People_1of5/People/62. Parent/MVI_3766.MOV,0.89
+parent/MVI_3767_84c67a99.npy,parent,66,MVI_3767.MOV,People_1of5/People/62. Parent/MVI_3767.MOV,0.88
+parent/MVI_3768_0696ed48.npy,parent,66,MVI_3768.MOV,People_1of5/People/62. Parent/MVI_3768.MOV,0.88
+parent/MVI_3914_8e5c4bac.npy,parent,79,MVI_3914.MOV,People_1of5/People/62. Parent/MVI_3914.MOV,0.89
+parent/MVI_3915_b33c621c.npy,parent,76,MVI_3915.MOV,People_1of5/People/62. Parent/MVI_3915.MOV,0.92
+parent/MVI_3916_f49c18cc.npy,parent,76,MVI_3916.MOV,People_1of5/People/62. Parent/MVI_3916.MOV,0.91
+parent/MVI_4063_be24ebce.npy,parent,81,MVI_4063.MOV,People_1of5/People/62. Parent/MVI_4063.MOV,1.00
+parent/MVI_4064_0c0437de.npy,parent,76,MVI_4064.MOV,People_1of5/People/62. Parent/MVI_4064.MOV,1.00
+parent/MVI_4065_31641e6e.npy,parent,74,MVI_4065.MOV,People_1of5/People/62. Parent/MVI_4065.MOV,1.00
+parent/MVI_4225_3d6a4d51.npy,parent,62,MVI_4225.MOV,People_1of5/People/62. Parent/MVI_4225.MOV,1.00
+parent/MVI_4943_66740f16.npy,parent,64,MVI_4943.MOV,People_1of5/People/62. Parent/MVI_4943.MOV,1.00
+parent/MVI_4944_d454d306.npy,parent,71,MVI_4944.MOV,People_1of5/People/62. Parent/MVI_4944.MOV,1.00
+parent/MVI_4945_e934fab6.npy,parent,71,MVI_4945.MOV,People_1of5/People/62. Parent/MVI_4945.MOV,0.97
+parent/MVI_5083_48848a20.npy,parent,72,MVI_5083.MOV,People_1of5/People/62. Parent/MVI_5083.MOV,0.96
+parent/MVI_5084_faa45630.npy,parent,65,MVI_5084.MOV,People_1of5/People/62. Parent/MVI_5084.MOV,0.80
+parent/MVI_5085_c7c47f80.npy,parent,67,MVI_5085.MOV,People_1of5/People/62. Parent/MVI_5085.MOV,0.96
+parent/MVI_5231_cf1c38aa.npy,parent,80,MVI_5231.MOV,People_1of5/People/62. Parent/MVI_5231.MOV,0.99
+parent/MVI_5232_88bc427a.npy,parent,68,MVI_5232.MOV,People_1of5/People/62. Parent/MVI_5232.MOV,0.96
+parent/MVI_5233_b5dc6bca.npy,parent,69,MVI_5233.MOV,People_1of5/People/62. Parent/MVI_5233.MOV,1.00
+parent/MVI_8627_8aac2187.npy,parent,81,MVI_8627.MP4,People_1of5/People/62. Parent/MVI_8627.MP4,0.84
+poor/MVI_9600_90883c35.npy,poor,60,MVI_9600.MOV,Adjectives_2of8/Adjectives/12. poor/MVI_9600.MOV,0.83
+poor/MVI_9601_ade81585.npy,poor,70,MVI_9601.MOV,Adjectives_2of8/Adjectives/12. poor/MVI_9601.MOV,0.94
+poor/MVI_9603_d72846e5.npy,poor,65,MVI_9603.MOV,Adjectives_2of8/Adjectives/12. poor/MVI_9603.MOV,0.89
+poor/MVI_9604_65089af5.npy,poor,65,MVI_9604.MOV,Adjectives_2of8/Adjectives/12. poor/MVI_9604.MOV,0.91
+poor/MVI_9737_024b993f.npy,poor,62,MVI_9737.MOV,Adjectives_2of8/Adjectives/12. poor/MVI_9737.MOV,0.87
+poor/MVI_9738_801b0eee.npy,poor,61,MVI_9738.MOV,Adjectives_2of8/Adjectives/12. poor/MVI_9738.MOV,0.87
+poor/MVI_9739_bd7b275e.npy,poor,64,MVI_9739.MOV,Adjectives_2of8/Adjectives/12. poor/MVI_9739.MOV,0.91
+poor/MVI_9740_ad6e7597.npy,poor,72,MVI_9740.MOV,Adjectives_2of8/Adjectives/12. poor/MVI_9740.MOV,0.85
+quiet/MVI_5180_2baf8113.npy,quiet,68,MVI_5180.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_5180.MOV,1.00
+quiet/MVI_5181_16cfa8a3.npy,quiet,74,MVI_5181.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_5181.MOV,1.00
+quiet/MVI_5182_516fd273.npy,quiet,76,MVI_5182.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_5182.MOV,1.00
+quiet/MVI_5260_204dfafe.npy,quiet,69,MVI_5260.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_5260.MOV,1.00
+quiet/MVI_5261_1d2dd34e.npy,quiet,63,MVI_5261.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_5261.MOV,1.00
+quiet/MVI_5262_5a8da99e.npy,quiet,66,MVI_5262.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_5262.MOV,1.00
+quiet/MVI_5338_e6872b38.npy,quiet,45,MVI_5338.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_5338.MOV,1.00
+quiet/MVI_5339_dbe70288.npy,quiet,52,MVI_5339.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_5339.MOV,1.00
+quiet/MVI_5340_cbf25041.npy,quiet,53,MVI_5340.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_5340.MOV,1.00
+quiet/MVI_9292_fc740e04.npy,quiet,53,MVI_9292.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9292.MOV,1.00
+quiet/MVI_9293_c11427b4.npy,quiet,53,MVI_9293.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9293.MOV,1.00
+quiet/MVI_9294_7334fba4.npy,quiet,56,MVI_9294.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9294.MOV,1.00
+quiet/MVI_9371_27a91e10.npy,quiet,48,MVI_9371.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9371.MOV,1.00
+quiet/MVI_9372_600964c0.npy,quiet,47,MVI_9372.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9372.MOV,0.85
+quiet/MVI_9373_5d694d70.npy,quiet,47,MVI_9373.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9373.MOV,0.57
+quiet/MVI_9451_afc68195.npy,quiet,57,MVI_9451.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9451.MOV,1.00
+quiet/MVI_9452_e866fb45.npy,quiet,66,MVI_9452.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9452.MOV,1.00
+quiet/MVI_9453_d506d2f5.npy,quiet,60,MVI_9453.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9453.MOV,1.00
+quiet/MVI_9537_50a89c9c.npy,quiet,69,MVI_9537.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9537.MOV,1.00
+quiet/MVI_9538_d2f80b4d.npy,quiet,66,MVI_9538.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9538.MOV,1.00
+quiet/MVI_9539_ef9822fd.npy,quiet,65,MVI_9539.MOV,Adjectives_1of8/Adjectives/2. quiet/MVI_9539.MOV,1.00
+restaurant/MVI_3280_a6318201.npy,restaurant,70,MVI_3280.MOV,Places_1of4/Places/22. Restaurant/MVI_3280.MOV,1.00
+restaurant/MVI_3281_9b51abb1.npy,restaurant,71,MVI_3281.MOV,Places_1of4/Places/22. Restaurant/MVI_3281.MOV,1.00
+restaurant/MVI_3282_dcf1d161.npy,restaurant,65,MVI_3282.MOV,Places_1of4/Places/22. Restaurant/MVI_3282.MOV,1.00
+restaurant/MVI_3283_e191f8d1.npy,restaurant,65,MVI_3283.MOV,Places_1of4/Places/22. Restaurant/MVI_3283.MOV,1.00
+restaurant/MVI_3361_072cc175.npy,restaurant,68,MVI_3361.MOV,Places_1of4/Places/22. Restaurant/MVI_3361.MOV,1.00
+restaurant/MVI_3362_408cbba5.npy,restaurant,64,MVI_3362.MOV,Places_1of4/Places/22. Restaurant/MVI_3362.MOV,1.00
+restaurant/MVI_3363_7dec9215.npy,restaurant,59,MVI_3363.MOV,Places_1of4/Places/22. Restaurant/MVI_3363.MOV,1.00
+restaurant/MVI_3364_cfcc4e05.npy,restaurant,61,MVI_3364.MOV,Places_1of4/Places/22. Restaurant/MVI_3364.MOV,1.00
+restaurant/MVI_3448_82533c81.npy,restaurant,61,MVI_3448.MOV,Places_1of4/Places/22. Restaurant/MVI_3448.MOV,1.00
+restaurant/MVI_3449_bf331531.npy,restaurant,54,MVI_3449.MOV,Places_1of4/Places/22. Restaurant/MVI_3449.MOV,1.00
+restaurant/MVI_3450_797fa4e5.npy,restaurant,52,MVI_3450.MOV,Places_1of4/Places/22. Restaurant/MVI_3450.MOV,1.00
+restaurant/MVI_3451_441f8d55.npy,restaurant,49,MVI_3451.MOV,Places_1of4/Places/22. Restaurant/MVI_3451.MOV,1.00
+restaurant/MVI_3527_702d43f9.npy,restaurant,61,MVI_3527.MOV,Places_1of4/Places/22. Restaurant/MVI_3527.MOV,1.00
+restaurant/MVI_3528_f27dd428.npy,restaurant,59,MVI_3528.MOV,Places_1of4/Places/22. Restaurant/MVI_3528.MOV,1.00
+restaurant/MVI_3529_cf1dfd98.npy,restaurant,58,MVI_3529.MOV,Places_1of4/Places/22. Restaurant/MVI_3529.MOV,1.00
+restaurant/MVI_3530_09514c4c.npy,restaurant,55,MVI_3530.MOV,Places_1of4/Places/22. Restaurant/MVI_3530.MOV,0.87
+restaurant/MVI_3605_76cdab0f.npy,restaurant,59,MVI_3605.MOV,Places_1of4/Places/22. Restaurant/MVI_3605.MOV,1.00
+restaurant/MVI_3606_316dd1df.npy,restaurant,51,MVI_3606.MOV,Places_1of4/Places/22. Restaurant/MVI_3606.MOV,1.00
+restaurant/MVI_3607_0c0df86f.npy,restaurant,45,MVI_3607.MOV,Places_1of4/Places/22. Restaurant/MVI_3607.MOV,1.00
+restaurant/MVI_3608_8e5d6fbe.npy,restaurant,47,MVI_3608.MOV,Places_1of4/Places/22. Restaurant/MVI_3608.MOV,1.00
+rich/MVI_9596_d05b793a.npy,rich,47,MVI_9596.MOV,Adjectives_2of8/Adjectives/11. rich/MVI_9596.MOV,0.81
+rich/MVI_9597_ed3b508a.npy,rich,67,MVI_9597.MOV,Adjectives_2of8/Adjectives/11. rich/MVI_9597.MOV,0.87
+rich/MVI_9598_6f6bc75b.npy,rich,58,MVI_9598.MOV,Adjectives_2of8/Adjectives/11. rich/MVI_9598.MOV,0.79
+rich/MVI_9599_520beeeb.npy,rich,61,MVI_9599.MOV,Adjectives_2of8/Adjectives/11. rich/MVI_9599.MOV,0.80
+rich/MVI_9733_2ebfc405.npy,rich,65,MVI_9733.MOV,Adjectives_2of8/Adjectives/11. rich/MVI_9733.MOV,0.86
+rich/MVI_9734_9c9f1815.npy,rich,64,MVI_9734.MOV,Adjectives_2of8/Adjectives/11. rich/MVI_9734.MOV,0.83
+rich/MVI_9735_a1ff31a5.npy,rich,59,MVI_9735.MOV,Adjectives_2of8/Adjectives/11. rich/MVI_9735.MOV,0.85
+rich/MVI_9736_e65f4b75.npy,rich,62,MVI_9736.MOV,Adjectives_2of8/Adjectives/11. rich/MVI_9736.MOV,0.89
+sad/MVI_9565_dd70e622.npy,sad,63,MVI_9565.MOV,Adjectives_1of8/Adjectives/4. sad/MVI_9565.MOV,1.00
+sad/MVI_9566_9ad09cf2.npy,sad,74,MVI_9566.MOV,Adjectives_1of8/Adjectives/4. sad/MVI_9566.MOV,1.00
+sad/MVI_9567_a7b0b542.npy,sad,59,MVI_9567.MOV,Adjectives_1of8/Adjectives/4. sad/MVI_9567.MOV,1.00
+sad/MVI_9568_25e02293.npy,sad,69,MVI_9568.MOV,Adjectives_1of8/Adjectives/4. sad/MVI_9568.MOV,1.00
+sad/MVI_9719_921a2ab2.npy,sad,66,MVI_9719.MOV,Adjectives_1of8/Adjectives/4. sad/MVI_9719.MOV,1.00
+sad/MVI_9720_199e3a6d.npy,sad,62,MVI_9720.MOV,Adjectives_1of8/Adjectives/4. sad/MVI_9720.MOV,1.00
+sad/MVI_9721_24fe13dd.npy,sad,68,MVI_9721.MOV,Adjectives_1of8/Adjectives/4. sad/MVI_9721.MOV,1.00
+sad/MVI_9722_635e690d.npy,sad,62,MVI_9722.MOV,Adjectives_1of8/Adjectives/4. sad/MVI_9722.MOV,1.00
+saturday/MVI_4611_4774d10a.npy,saturday,61,MVI_4611.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_4611.MOV,0.79
+saturday/MVI_4612_00d4abda.npy,saturday,58,MVI_4612.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_4612.MOV,0.98
+saturday/MVI_4613_3db4826a.npy,saturday,55,MVI_4613.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_4613.MOV,1.00
+saturday/MVI_4614_8f945e7a.npy,saturday,60,MVI_4614.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_4614.MOV,0.83
+saturday/MVI_5027_e1da63a0.npy,saturday,44,MVI_5027.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_5027.MOV,0.57
+saturday/MVI_5028_638af471.npy,saturday,49,MVI_5028.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_5028.MOV,0.59
+saturday/MVI_5030_98a66c15.npy,saturday,47,MVI_5030.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_5030.MOV,0.57
+saturday/MVI_5466_b3642c15.npy,saturday,57,MVI_5466.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_5466.MOV,1.00
+saturday/MVI_5467_8e0405a5.npy,saturday,50,MVI_5467.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_5467.MOV,1.00
+saturday/MVI_5468_0c549274.npy,saturday,53,MVI_5468.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_5468.MOV,1.00
+saturday/MVI_5469_3134bbc4.npy,saturday,52,MVI_5469.MOV,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_5469.MOV,1.00
+saturday/MVI_9157_63e14309.npy,saturday,63,MVI_9157.MP4,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_9157.MP4,1.00
+saturday/MVI_9158_e1b1d4d8.npy,saturday,67,MVI_9158.MP4,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_9158.MP4,1.00
+saturday/MVI_9159_dcd1fd68.npy,saturday,68,MVI_9159.MP4,Days_and_Time_1of3/Days_and_Time/72. Saturday/MVI_9159.MP4,1.00
+she/MVI_0009_44de6317.npy,she,74,MVI_0009.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0009.MOV,1.00
+she/MVI_0010_8292d2c3.npy,she,80,MVI_0010.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0010.MOV,1.00
+she/MVI_0011_bff2fb73.npy,she,77,MVI_0011.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0011.MOV,1.00
+she/MVI_0012_f85281a3.npy,she,81,MVI_0012.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0012.MOV,1.00
+she/MVI_0021_396689dd.npy,she,41,MVI_0021.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0021.MOV,1.00
+she/MVI_0022_7ec6f30d.npy,she,50,MVI_0022.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0022.MOV,1.00
+she/MVI_0023_43a6dabd.npy,she,51,MVI_0023.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0023.MOV,1.00
+she/MVI_0073_136b4b0e.npy,she,74,MVI_0073.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0073.MOV,1.00
+she/MVI_0074_a14b971e.npy,she,72,MVI_0074.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0074.MOV,1.00
+she/MVI_0075_9c2bbeae.npy,she,68,MVI_0075.MOV,Pronouns_1of2/Pronouns/43. she/MVI_0075.MOV,1.00
+she/MVI_9893_05c17f32.npy,she,48,MVI_9893.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9893.MOV,1.00
+she/MVI_9894_b7e1a322.npy,she,49,MVI_9894.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9894.MOV,1.00
+she/MVI_9895_8a818a92.npy,she,54,MVI_9895.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9895.MOV,1.00
+she/MVI_9896_cd21f042.npy,she,51,MVI_9896.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9896.MOV,1.00
+she/MVI_9932_3f4d7e50.npy,she,109,MVI_9932.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9932.MOV,1.00
+she/MVI_9933_022d57e0.npy,she,94,MVI_9933.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9933.MOV,1.00
+she/MVI_9934_b00d8bf0.npy,she,88,MVI_9934.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9934.MOV,1.00
+she/MVI_9935_8d6da240.npy,she,97,MVI_9935.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9935.MOV,1.00
+she/MVI_9966_9a004923.npy,she,48,MVI_9966.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9966.MOV,0.96
+she/MVI_9967_a7606093.npy,she,51,MVI_9967.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9967.MOV,1.00
+she/MVI_9968_2530f742.npy,she,54,MVI_9968.MOV,Pronouns_1of2/Pronouns/43. she/MVI_9968.MOV,1.00
+son/MVI_3753_a26e32fd.npy,son,66,MVI_3753.MOV,People_1of5/People/58. Son/MVI_3753.MOV,0.88
+son/MVI_3754_104eeeed.npy,son,49,MVI_3754.MOV,People_1of5/People/58. Son/MVI_3754.MOV,0.82
+son/MVI_3755_2d2ec75d.npy,son,52,MVI_3755.MOV,People_1of5/People/58. Son/MVI_3755.MOV,0.87
+son/MVI_3900_e53ca2c3.npy,son,87,MVI_3900.MOV,People_1of5/People/58. Son/MVI_3900.MOV,0.97
+son/MVI_3901_d85c8b73.npy,son,77,MVI_3901.MOV,People_1of5/People/58. Son/MVI_3901.MOV,0.96
+son/MVI_3902_9ffcf1a3.npy,son,75,MVI_3902.MOV,People_1of5/People/58. Son/MVI_3902.MOV,0.99
+son/MVI_4051_17cc560a.npy,son,55,MVI_4051.MOV,People_1of5/People/58. Son/MVI_4051.MOV,0.93
+son/MVI_4052_506c2cda.npy,son,61,MVI_4052.MOV,People_1of5/People/58. Son/MVI_4052.MOV,0.92
+son/MVI_4053_6d0c056a.npy,son,65,MVI_4053.MOV,People_1of5/People/58. Son/MVI_4053.MOV,0.94
+son/MVI_4219_2bb24ef4.npy,son,57,MVI_4219.MOV,People_1of5/People/58. Son/MVI_4219.MOV,0.96
+son/MVI_4931_540df0c4.npy,son,61,MVI_4931.MOV,People_1of5/People/58. Son/MVI_4931.MOV,0.98
+son/MVI_4932_13ad8a14.npy,son,66,MVI_4932.MOV,People_1of5/People/58. Son/MVI_4932.MOV,0.97
+son/MVI_4933_2ecda3a4.npy,son,60,MVI_4933.MOV,People_1of5/People/58. Son/MVI_4933.MOV,0.95
+son/MVI_5071_96aef79f.npy,son,59,MVI_5071.MOV,People_1of5/People/58. Son/MVI_5071.MOV,1.00
+son/MVI_5072_d10e8d4f.npy,son,62,MVI_5072.MOV,People_1of5/People/58. Son/MVI_5072.MOV,0.73
+son/MVI_5073_ec6ea4ff.npy,son,55,MVI_5073.MOV,People_1of5/People/58. Son/MVI_5073.MOV,0.84
+son/MVI_5218_da7867da.npy,son,68,MVI_5218.MOV,People_1of5/People/58. Son/MVI_5218.MOV,1.00
+son/MVI_5219_e7184e6a.npy,son,68,MVI_5219.MOV,People_1of5/People/58. Son/MVI_5219.MOV,1.00
+son/MVI_5220_6c9c5eb5.npy,son,69,MVI_5220.MOV,People_1of5/People/58. Son/MVI_5220.MOV,0.99
+son/MVI_8623_2a901b4d.npy,son,70,MVI_8623.MP4,People_1of5/People/58. Son/MVI_8623.MP4,0.83
+street_or_road/MVI_3271_81e3e379.npy,street_or_road,60,MVI_3271.MOV,Places_1of4/Places/20. Street or Road/MVI_3271.MOV,0.92
+street_or_road/MVI_3272_c64399a9.npy,street_or_road,75,MVI_3272.MOV,Places_1of4/Places/20. Street or Road/MVI_3272.MOV,0.97
+street_or_road/MVI_3273_fb23b019.npy,street_or_road,62,MVI_3273.MOV,Places_1of4/Places/20. Street or Road/MVI_3273.MOV,0.97
+street_or_road/MVI_3274_49036c09.npy,street_or_road,73,MVI_3274.MOV,Places_1of4/Places/20. Street or Road/MVI_3274.MOV,0.97
+street_or_road/MVI_3353_109c1aa6.npy,street_or_road,63,MVI_3353.MOV,Places_1of4/Places/20. Street or Road/MVI_3353.MOV,0.63
+street_or_road/MVI_3354_a2bcc6b6.npy,street_or_road,63,MVI_3354.MOV,Places_1of4/Places/20. Street or Road/MVI_3354.MOV,0.65
+street_or_road/MVI_3355_9fdcef06.npy,street_or_road,58,MVI_3355.MOV,Places_1of4/Places/20. Street or Road/MVI_3355.MOV,0.45
+street_or_road/MVI_3356_d87c95d6.npy,street_or_road,55,MVI_3356.MOV,Places_1of4/Places/20. Street or Road/MVI_3356.MOV,0.44
+street_or_road/MVI_3440_59c78d5d.npy,street_or_road,59,MVI_3440.MOV,Places_1of4/Places/20. Street or Road/MVI_3440.MOV,0.92
+street_or_road/MVI_3441_64a7a4ed.npy,street_or_road,51,MVI_3441.MOV,Places_1of4/Places/20. Street or Road/MVI_3441.MOV,0.88
+street_or_road/MVI_3442_2307de3d.npy,street_or_road,54,MVI_3442.MOV,Places_1of4/Places/20. Street or Road/MVI_3442.MOV,0.93
+street_or_road/MVI_3443_1e67f78d.npy,street_or_road,57,MVI_3443.MOV,Places_1of4/Places/20. Street or Road/MVI_3443.MOV,0.96
+street_or_road/MVI_3517_1d5dcb4a.npy,street_or_road,63,MVI_3517.MOV,Places_1of4/Places/20. Street or Road/MVI_3517.MOV,0.83
+street_or_road/MVI_3518_9f0d5c9b.npy,street_or_road,61,MVI_3518.MOV,Places_1of4/Places/20. Street or Road/MVI_3518.MOV,0.75
+street_or_road/MVI_3519_a26d752b.npy,street_or_road,55,MVI_3519.MOV,Places_1of4/Places/20. Street or Road/MVI_3519.MOV,0.84
+street_or_road/MVI_3520_29e965f4.npy,street_or_road,58,MVI_3520.MOV,Places_1of4/Places/20. Street or Road/MVI_3520.MOV,0.81
+street_or_road/MVI_3597_f10e4927.npy,street_or_road,57,MVI_3597.MOV,Places_1of4/Places/20. Street or Road/MVI_3597.MOV,0.95
+street_or_road/MVI_3598_735edef6.npy,street_or_road,49,MVI_3598.MOV,Places_1of4/Places/20. Street or Road/MVI_3598.MOV,0.78
+street_or_road/MVI_3599_4e3ef746.npy,street_or_road,47,MVI_3599.MOV,Places_1of4/Places/20. Street or Road/MVI_3599.MOV,0.85
+street_or_road/MVI_3600_55c9de62.npy,street_or_road,50,MVI_3600.MOV,Places_1of4/Places/20. Street or Road/MVI_3600.MOV,0.94
+sunday/MVI_4586_c0d332ab.npy,sunday,71,MVI_4586.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_4586.MOV,0.86
+sunday/MVI_4588_7fe38cca.npy,sunday,69,MVI_4588.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_4588.MOV,0.43
+sunday/MVI_4589_4283a57a.npy,sunday,60,MVI_4589.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_4589.MOV,0.32
+sunday/MVI_4590_84cf14ae.npy,sunday,57,MVI_4590.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_4590.MOV,0.30
+sunday/MVI_5005_f5b2e52f.npy,sunday,52,MVI_5005.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_5005.MOV,0.40
+sunday/MVI_5008_0d22219e.npy,sunday,47,MVI_5008.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_5008.MOV,0.64
+sunday/MVI_5442_284c5f3a.npy,sunday,51,MVI_5442.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_5442.MOV,1.00
+sunday/MVI_5443_152c768a.npy,sunday,57,MVI_5443.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_5443.MOV,1.00
+sunday/MVI_5444_a70caa9a.npy,sunday,61,MVI_5444.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_5444.MOV,1.00
+sunday/MVI_5445_9a6c832a.npy,sunday,57,MVI_5445.MOV,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_5445.MOV,1.00
+sunday/MVI_9139_29e86a91.npy,sunday,78,MVI_9139.MP4,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_9139.MP4,1.00
+sunday/MVI_9140_39fd3858.npy,sunday,75,MVI_9140.MP4,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_9140.MP4,1.00
+sunday/MVI_9141_049d11e8.npy,sunday,71,MVI_9141.MP4,Days_and_Time_1of3/Days_and_Time/66. Sunday/MVI_9141.MP4,1.00
+table/MVI_4344_43b27abd.npy,table,55,MVI_4344.MOV,Home_1of4/Home/24. Table/MVI_4344.MOV,0.89
+table/MVI_4345_7ed2530d.npy,table,50,MVI_4345.MOV,Home_1of4/Home/24. Table/MVI_4345.MOV,0.88
+table/MVI_4346_397229dd.npy,table,49,MVI_4346.MOV,Home_1of4/Home/24. Table/MVI_4346.MOV,0.94
+table/MVI_4347_0412006d.npy,table,47,MVI_4347.MOV,Home_1of4/Home/24. Table/MVI_4347.MOV,0.85
+table/MVI_4869_f4ed4bfd.npy,table,47,MVI_4869.MOV,Home_1of4/Home/24. Table/MVI_4869.MOV,0.70
+table/MVI_4870_32a1fa29.npy,table,55,MVI_4870.MOV,Home_1of4/Home/24. Table/MVI_4870.MOV,0.76
+table/MVI_4871_0fc1d399.npy,table,50,MVI_4871.MOV,Home_1of4/Home/24. Table/MVI_4871.MOV,0.74
+table/MVI_8750_b068306e.npy,table,69,MVI_8750.MP4,Home_1of4/Home/24. Table/MVI_8750.MP4,0.72
+table/MVI_8751_8d0819de.npy,table,64,MVI_8751.MP4,Home_1of4/Home/24. Table/MVI_8751.MP4,0.78
+table/MVI_8752_caa8630e.npy,table,64,MVI_8752.MP4,Home_1of4/Home/24. Table/MVI_8752.MP4,0.83
+table/MVI_8753_f7c84abe.npy,table,51,MVI_8753.MP4,Home_1of4/Home/24. Table/MVI_8753.MP4,0.75
+table/MVI_9001_d4c8b67d.npy,table,63,MVI_9001.MP4,Home_1of4/Home/24. Table/MVI_9001.MP4,0.75
+table/MVI_9002_9368ccad.npy,table,64,MVI_9002.MP4,Home_1of4/Home/24. Table/MVI_9002.MP4,0.84
+table/MVI_9003_ae08e51d.npy,table,64,MVI_9003.MP4,Home_1of4/Home/24. Table/MVI_9003.MP4,0.81
+thick/MVI_9605_73e191dc.npy,thick,58,MVI_9605.MOV,Adjectives_2of8/Adjectives/13. thick/MVI_9605.MOV,1.00
+thick/MVI_9606_3441eb0c.npy,thick,68,MVI_9606.MOV,Adjectives_2of8/Adjectives/13. thick/MVI_9606.MOV,1.00
+thick/MVI_9607_0921c2bc.npy,thick,72,MVI_9607.MOV,Adjectives_2of8/Adjectives/13. thick/MVI_9607.MOV,1.00
+thick/MVI_9608_8b71556d.npy,thick,71,MVI_9608.MOV,Adjectives_2of8/Adjectives/13. thick/MVI_9608.MOV,1.00
+thick/MVI_9742_fc27046e.npy,thick,64,MVI_9742.MOV,Adjectives_2of8/Adjectives/13. thick/MVI_9742.MOV,1.00
+thick/MVI_9743_c1472dde.npy,thick,82,MVI_9743.MOV,Adjectives_2of8/Adjectives/13. thick/MVI_9743.MOV,1.00
+thick/MVI_9744_7367f1ce.npy,thick,74,MVI_9744.MOV,Adjectives_2of8/Adjectives/13. thick/MVI_9744.MOV,1.00
+thick/MVI_9745_4e07d87e.npy,thick,69,MVI_9745.MOV,Adjectives_2of8/Adjectives/13. thick/MVI_9745.MOV,1.00
+thursday/MVI_4603_0fe2b713.npy,thursday,62,MVI_4603.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_4603.MOV,0.98
+thursday/MVI_4604_bdc26b03.npy,thursday,62,MVI_4604.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_4604.MOV,0.89
+thursday/MVI_4605_80a242b3.npy,thursday,58,MVI_4605.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_4605.MOV,0.95
+thursday/MVI_4606_c7023863.npy,thursday,68,MVI_4606.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_4606.MOV,0.87
+thursday/MVI_5020_aaf0596c.npy,thursday,50,MVI_5020.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_5020.MOV,0.32
+thursday/MVI_5021_979070dc.npy,thursday,56,MVI_5021.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_5021.MOV,0.29
+thursday/MVI_5458_73ca0606.npy,thursday,53,MVI_5458.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_5458.MOV,1.00
+thursday/MVI_5459_4eaa2fb6.npy,thursday,49,MVI_5459.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_5459.MOV,1.00
+thursday/MVI_5460_c52e3f69.npy,thursday,48,MVI_5460.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_5460.MOV,1.00
+thursday/MVI_5461_f84e16d9.npy,thursday,52,MVI_5461.MOV,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_5461.MOV,1.00
+thursday/MVI_9151_15ab5075.npy,thursday,66,MVI_9151.MP4,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_9151.MP4,1.00
+thursday/MVI_9152_520b2aa5.npy,thursday,63,MVI_9152.MP4,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_9152.MP4,1.00
+thursday/MVI_9153_6f6b0315.npy,thursday,60,MVI_9153.MP4,Days_and_Time_1of3/Days_and_Time/70. Thursday/MVI_9153.MP4,1.00
+tight/MVI_9646_3b9a16ab.npy,tight,81,MVI_9646.MOV,Adjectives_2of8/Adjectives/21. tight/MVI_9646.MOV,0.93
+tight/MVI_9647_06fa3f1b.npy,tight,63,MVI_9647.MOV,Adjectives_2of8/Adjectives/21. tight/MVI_9647.MOV,0.84
+tight/MVI_9648_84aaa8ca.npy,tight,64,MVI_9648.MOV,Adjectives_2of8/Adjectives/21. tight/MVI_9648.MOV,0.86
+tight/MVI_9649_b9ca817a.npy,tight,55,MVI_9649.MOV,Adjectives_2of8/Adjectives/21. tight/MVI_9649.MOV,0.82
+tight/MVI_9771_a959b3a1.npy,tight,61,MVI_9771.MOV,Adjectives_2of8/Adjectives/21. tight/MVI_9771.MOV,0.82
+tight/MVI_9772_eef9c971.npy,tight,61,MVI_9772.MOV,Adjectives_2of8/Adjectives/21. tight/MVI_9772.MOV,0.80
+tight/MVI_9773_d399e0c1.npy,tight,63,MVI_9773.MOV,Adjectives_2of8/Adjectives/21. tight/MVI_9773.MOV,0.83
+tight/MVI_9774_61b93cd1.npy,tight,66,MVI_9774.MOV,Adjectives_2of8/Adjectives/21. tight/MVI_9774.MOV,0.86
+today/MVI_4615_b363ac55.npy,today,62,MVI_4615.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_4615.MOV,0.63
+today/MVI_4616_f4c3d685.npy,today,54,MVI_4616.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_4616.MOV,1.00
+today/MVI_4617_c9a3ff35.npy,today,48,MVI_4617.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_4617.MOV,0.67
+today/MVI_4618_4bf368e4.npy,today,45,MVI_4618.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_4618.MOV,0.62
+today/MVI_5031_a4519e3a.npy,today,47,MVI_5031.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_5031.MOV,0.28
+today/MVI_5032_e3f1e4ea.npy,today,41,MVI_5032.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_5032.MOV,0.34
+today/MVI_5033_de91cd5a.npy,today,46,MVI_5033.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_5033.MOV,0.78
+today/MVI_5470_f6efd18f.npy,today,44,MVI_5470.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_5470.MOV,1.00
+today/MVI_5471_cb8ff83f.npy,today,48,MVI_5471.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_5471.MOV,1.00
+today/MVI_5472_8c2f82ef.npy,today,52,MVI_5472.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_5472.MOV,1.00
+today/MVI_5473_b14fab5f.npy,today,41,MVI_5473.MOV,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_5473.MOV,1.00
+today/MVI_9160_56c23628.npy,today,69,MVI_9160.MP4,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_9160.MP4,1.00
+today/MVI_9161_6ba21f98.npy,today,68,MVI_9161.MP4,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_9161.MP4,1.00
+today/MVI_9162_2c026548.npy,today,60,MVI_9162.MP4,Days_and_Time_1of3/Days_and_Time/73. Today/MVI_9162.MP4,1.00
+tomorrow/MVI_4619_ab2768cd.npy,tomorrow,54,MVI_4619.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_4619.MOV,0.93
+tomorrow/MVI_4620_20a37812.npy,tomorrow,56,MVI_4620.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_4620.MOV,0.68
+tomorrow/MVI_4621_1dc351a2.npy,tomorrow,49,MVI_4621.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_4621.MOV,0.65
+tomorrow/MVI_4622_5a632b72.npy,tomorrow,55,MVI_4622.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_4622.MOV,0.85
+tomorrow/MVI_5035_8c651163.npy,tomorrow,48,MVI_5035.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_5035.MOV,0.58
+tomorrow/MVI_5036_cbc56bb3.npy,tomorrow,45,MVI_5036.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_5036.MOV,0.71
+tomorrow/MVI_5474_dedb5ed6.npy,tomorrow,43,MVI_5474.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_5474.MOV,1.00
+tomorrow/MVI_5475_e3bb7766.npy,tomorrow,42,MVI_5475.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_5475.MOV,1.00
+tomorrow/MVI_5476_a41b0db6.npy,tomorrow,45,MVI_5476.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_5476.MOV,1.00
+tomorrow/MVI_5477_997b2406.npy,tomorrow,41,MVI_5477.MOV,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_5477.MOV,1.00
+tomorrow/MVI_9163_ccd66561.npy,tomorrow,99,MVI_9163.MP4,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_9163.MP4,1.00
+tomorrow/MVI_9164_7ef6b971.npy,tomorrow,62,MVI_9164.MP4,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_9164.MP4,1.00
+tomorrow/MVI_9165_439690c1.npy,tomorrow,80,MVI_9165.MP4,Days_and_Time_2of3/Days_and_Time/74. Tomorrow/MVI_9165.MP4,1.00
+train_station/MVI_3279_9d5ac3b8.npy,train_station,84,MVI_3279.MOV,Places_1of4/Places/21. Train Station/Extra/MVI_3279.MOV,0.95
+train_station/MVI_3526_8a60fb54.npy,train_station,63,MVI_3526.MOV,Places_1of4/Places/21. Train Station/Extra/MVI_3526.MOV,0.84
+train_station/MVI_3275_546922e9.npy,train_station,78,MVI_3275.MOV,Places_1of4/Places/21. Train Station/MVI_3275.MOV,0.88
+train_station/MVI_3276_13c95839.npy,train_station,85,MVI_3276.MOV,Places_1of4/Places/21. Train Station/MVI_3276.MOV,0.89
+train_station/MVI_3277_2ea97189.npy,train_station,80,MVI_3277.MOV,Places_1of4/Places/21. Train Station/MVI_3277.MOV,0.89
+train_station/MVI_3278_acf9e658.npy,train_station,77,MVI_3278.MOV,Places_1of4/Places/21. Train Station/MVI_3278.MOV,0.96
+train_station/MVI_3357_c516db36.npy,train_station,69,MVI_3357.MOV,Places_1of4/Places/21. Train Station/MVI_3357.MOV,0.83
+train_station/MVI_3358_47464ce7.npy,train_station,60,MVI_3358.MOV,Places_1of4/Places/21. Train Station/MVI_3358.MOV,0.85
+train_station/MVI_3359_7a266557.npy,train_station,67,MVI_3359.MOV,Places_1of4/Places/21. Train Station/MVI_3359.MOV,0.82
+train_station/MVI_3360_f1a27588.npy,train_station,63,MVI_3360.MOV,Places_1of4/Places/21. Train Station/MVI_3360.MOV,0.87
+train_station/MVI_3444_8c4d4ccd.npy,train_station,65,MVI_3444.MOV,Places_1of4/Places/21. Train Station/MVI_3444.MOV,0.95
+train_station/MVI_3445_b12d657d.npy,train_station,56,MVI_3445.MOV,Places_1of4/Places/21. Train Station/MVI_3445.MOV,0.95
+train_station/MVI_3446_f68d1fad.npy,train_station,54,MVI_3446.MOV,Places_1of4/Places/21. Train Station/MVI_3446.MOV,0.93
+train_station/MVI_3447_cbed361d.npy,train_station,69,MVI_3447.MOV,Places_1of4/Places/21. Train Station/MVI_3447.MOV,0.96
+train_station/MVI_3521_34832b14.npy,train_station,56,MVI_3521.MOV,Places_1of4/Places/21. Train Station/MVI_3521.MOV,0.84
+train_station/MVI_3522_732351c4.npy,train_station,51,MVI_3522.MOV,Places_1of4/Places/21. Train Station/MVI_3522.MOV,0.84
+train_station/MVI_3524_fc63a464.npy,train_station,55,MVI_3524.MOV,Places_1of4/Places/21. Train Station/MVI_3524.MOV,0.76
+train_station/MVI_3525_c1038dd4.npy,train_station,55,MVI_3525.MOV,Places_1of4/Places/21. Train Station/MVI_3525.MOV,0.80
+train_station/MVI_3601_48a39082.npy,train_station,64,MVI_3601.MOV,Places_1of4/Places/21. Train Station/MVI_3601.MOV,0.91
+train_station/MVI_3602_0f03ea52.npy,train_station,60,MVI_3602.MOV,Places_1of4/Places/21. Train Station/MVI_3602.MOV,0.92
+train_station/MVI_3603_3263c3e2.npy,train_station,49,MVI_3603.MOV,Places_1of4/Places/21. Train Station/MVI_3603.MOV,0.88
+train_station/MVI_3604_80431ff2.npy,train_station,61,MVI_3604.MOV,Places_1of4/Places/21. Train Station/MVI_3604.MOV,0.89
+tuesday/MVI_4595_d93715c3.npy,tuesday,59,MVI_4595.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_4595.MOV,0.81
+tuesday/MVI_4596_9e976f13.npy,tuesday,55,MVI_4596.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_4596.MOV,0.76
+tuesday/MVI_4597_a3f746a3.npy,tuesday,62,MVI_4597.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_4597.MOV,0.79
+tuesday/MVI_4598_21a7d172.npy,tuesday,70,MVI_4598.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_4598.MOV,0.69
+tuesday/MVI_5012_19d66487.npy,tuesday,50,MVI_5012.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_5012.MOV,0.40
+tuesday/MVI_5014_96969127.npy,tuesday,54,MVI_5014.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_5014.MOV,0.48
+tuesday/MVI_5450_0cc851e2.npy,tuesday,51,MVI_5450.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_5450.MOV,0.80
+tuesday/MVI_5451_31a87852.npy,tuesday,51,MVI_5451.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_5451.MOV,0.80
+tuesday/MVI_5452_76080282.npy,tuesday,49,MVI_5452.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_5452.MOV,0.73
+tuesday/MVI_5453_4b682b32.npy,tuesday,56,MVI_5453.MOV,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_5453.MOV,0.41
+tuesday/MVI_9145_64053935.npy,tuesday,67,MVI_9145.MP4,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_9145.MP4,0.81
+tuesday/MVI_9146_23a543e5.npy,tuesday,62,MVI_9146.MP4,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_9146.MP4,0.76
+tuesday/MVI_9147_1ec56a55.npy,tuesday,61,MVI_9147.MP4,Days_and_Time_1of3/Days_and_Time/68. Tuesday/MVI_9147.MP4,0.77
+ugly/MVI_9576_64d5b412.npy,ugly,59,MVI_9576.MOV,Adjectives_1of8/Adjectives/6. Ugly/MVI_9576.MOV,1.00
+ugly/MVI_9577_59b59da2.npy,ugly,69,MVI_9577.MOV,Adjectives_1of8/Adjectives/6. Ugly/MVI_9577.MOV,1.00
+ugly/MVI_9578_dbe50a73.npy,ugly,77,MVI_9578.MOV,Adjectives_1of8/Adjectives/6. Ugly/MVI_9578.MOV,1.00
+ugly/MVI_9579_e68523c3.npy,ugly,59,MVI_9579.MOV,Adjectives_1of8/Adjectives/6. Ugly/MVI_9579.MOV,1.00
+ugly/MVI_9844_f956f41c.npy,ugly,53,MVI_9844.MOV,Adjectives_1of8/Adjectives/6. Ugly/MVI_9844.MOV,1.00
+ugly/MVI_9845_c436ddac.npy,ugly,60,MVI_9845.MOV,Adjectives_1of8/Adjectives/6. Ugly/MVI_9845.MOV,1.00
+ugly/MVI_9846_8396a77c.npy,ugly,59,MVI_9846.MOV,Adjectives_1of8/Adjectives/6. Ugly/MVI_9846.MOV,1.00
+ugly/MVI_9847_bef68ecc.npy,ugly,52,MVI_9847.MOV,Adjectives_1of8/Adjectives/6. Ugly/MVI_9847.MOV,1.00
+wednesday/MVI_4599_6c3e13c1.npy,wednesday,50,MVI_4599.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_4599.MOV,0.72
+wednesday/MVI_4600_77c93ae5.npy,wednesday,54,MVI_4600.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_4600.MOV,0.67
+wednesday/MVI_4601_4aa91355.npy,wednesday,56,MVI_4601.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_4601.MOV,0.71
+wednesday/MVI_4602_0d096985.npy,wednesday,49,MVI_4602.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_4602.MOV,0.73
+wednesday/MVI_5016_9caf2944.npy,wednesday,51,MVI_5016.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_5016.MOV,0.69
+wednesday/MVI_5017_a1cf00f4.npy,wednesday,51,MVI_5017.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_5017.MOV,0.71
+wednesday/MVI_5018_239f9725.npy,wednesday,51,MVI_5018.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_5018.MOV,0.78
+wednesday/MVI_5454_89b11c21.npy,wednesday,56,MVI_5454.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_5454.MOV,0.84
+wednesday/MVI_5455_b4d13591.npy,wednesday,54,MVI_5455.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_5455.MOV,0.91
+wednesday/MVI_5456_f3714f41.npy,wednesday,54,MVI_5456.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_5456.MOV,0.80
+wednesday/MVI_5457_ce1166f1.npy,wednesday,46,MVI_5457.MOV,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_5457.MOV,0.78
+wednesday/MVI_9148_ec6c1687.npy,wednesday,61,MVI_9148.MP4,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_9148.MP4,0.82
+wednesday/MVI_9149_d10c3f37.npy,wednesday,61,MVI_9149.MP4,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_9149.MP4,0.80
+wednesday/MVI_9150_17408ee3.npy,wednesday,58,MVI_9150.MP4,Days_and_Time_1of3/Days_and_Time/69. Wednesday/MVI_9150.MP4,0.78
+week/MVI_4627_bbda4639.npy,week,71,MVI_4627.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_4627.MOV,0.70
+week/MVI_4628_398ad1e8.npy,week,69,MVI_4628.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_4628.MOV,0.71
+week/MVI_4629_04eaf858.npy,week,58,MVI_4629.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_4629.MOV,0.71
+week/MVI_4630_c2a6498c.npy,week,56,MVI_4630.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_4630.MOV,0.62
+week/MVI_5041_4db96520.npy,week,53,MVI_5041.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_5041.MOV,0.60
+week/MVI_5042_0a191ff0.npy,week,50,MVI_5042.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_5042.MOV,0.52
+week/MVI_5043_37793640.npy,week,49,MVI_5043.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_5043.MOV,0.33
+week/MVI_5482_8994fb98.npy,week,46,MVI_5482.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_5482.MOV,0.72
+week/MVI_5484_06d40e38.npy,week,39,MVI_5484.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_5484.MOV,0.72
+week/MVI_5485_3bb42788.npy,week,47,MVI_5485.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_5485.MOV,0.74
+week/MVI_5486_7c145d58.npy,week,42,MVI_5486.MOV,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_5486.MOV,0.71
+week/MVI_9169_af3f9ffb.npy,week,71,MVI_9169.MP4,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_9169.MP4,0.79
+week/MVI_9170_69732e2f.npy,week,64,MVI_9170.MP4,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_9170.MP4,0.77
+week/MVI_9171_5413079f.npy,week,69,MVI_9171.MP4,Days_and_Time_2of3/Days_and_Time/76. Week/MVI_9171.MP4,0.84
+window/MVI_4362_6d2a95b9.npy,window,84,MVI_4362.MOV,Home_1of4/Home/28. Window/MVI_4362.MOV,0.85
+window/MVI_4363_504abc09.npy,window,70,MVI_4363.MOV,Home_1of4/Home/28. Window/MVI_4363.MOV,0.76
+window/MVI_4364_e26a6019.npy,window,87,MVI_4364.MOV,Home_1of4/Home/28. Window/MVI_4364.MOV,0.80
+window/MVI_4365_df0a49a9.npy,window,81,MVI_4365.MOV,Home_1of4/Home/28. Window/MVI_4365.MOV,0.81
+window/MVI_4881_1287dae3.npy,window,72,MVI_4881.MOV,Home_1of4/Home/28. Window/MVI_4881.MOV,0.71
+window/MVI_4882_5527a033.npy,window,67,MVI_4882.MOV,Home_1of4/Home/28. Window/MVI_4882.MOV,0.76
+window/MVI_4883_68478983.npy,window,66,MVI_4883.MOV,Home_1of4/Home/28. Window/MVI_4883.MOV,0.79
+window/MVI_8766_55ac0ccf.npy,window,100,MVI_8766.MP4,Home_1of4/Home/28. Window/MVI_8766.MP4,0.75
+window/MVI_8767_68cc257f.npy,window,99,MVI_8767.MP4,Home_1of4/Home/28. Window/MVI_8767.MP4,0.82
+window/MVI_8768_ea9cb2ae.npy,window,104,MVI_8768.MP4,Home_1of4/Home/28. Window/MVI_8768.MP4,0.64
+window/MVI_8769_d7fc9b1e.npy,window,101,MVI_8769.MP4,Home_1of4/Home/28. Window/MVI_8769.MP4,0.77
+window/MVI_9013_89448d17.npy,window,72,MVI_9013.MP4,Home_1of4/Home/28. Window/MVI_9013.MP4,0.74
+window/MVI_9014_3b645107.npy,window,80,MVI_9014.MP4,Home_1of4/Home/28. Window/MVI_9014.MP4,0.81
+window/MVI_9015_060478b7.npy,window,85,MVI_9015.MP4,Home_1of4/Home/28. Window/MVI_9015.MP4,0.80
+year/MVI_4635_1002d342.npy,year,56,MVI_4635.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_4635.MOV,0.79
+year/MVI_4636_57a2a992.npy,year,53,MVI_4636.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_4636.MOV,0.83
+year/MVI_4637_6ac28022.npy,year,50,MVI_4637.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_4637.MOV,0.76
+year/MVI_4638_e89217f3.npy,year,51,MVI_4638.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_4638.MOV,0.84
+year/MVI_5047_d8bd853e.npy,year,46,MVI_5047.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_5047.MOV,0.80
+year/MVI_5048_5aed12ef.npy,year,37,MVI_5048.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_5048.MOV,0.70
+year/MVI_5049_678d3b5f.npy,year,51,MVI_5049.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_5049.MOV,0.75
+year/MVI_5491_1f2c4753.npy,year,46,MVI_5491.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_5491.MOV,0.91
+year/MVI_5492_588c3d83.npy,year,43,MVI_5492.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_5492.MOV,0.86
+year/MVI_5493_65ec1433.npy,year,39,MVI_5493.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_5493.MOV,0.85
+year/MVI_5494_d7ccc823.npy,year,46,MVI_5494.MOV,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_5494.MOV,0.85
+year/MVI_9175_bbd7b4e1.npy,year,60,MVI_9175.MP4,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_9175.MP4,0.80
+year/MVI_9176_fc77ce31.npy,year,61,MVI_9176.MP4,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_9176.MP4,0.80
+year/MVI_9177_c117e781.npy,year,57,MVI_9177.MP4,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_9177.MP4,0.81
+year/MVI_9178_43477050.npy,year,69,MVI_9178.MP4,Days_and_Time_2of3/Days_and_Time/78. Year/MVI_9178.MP4,0.81
+yesterday/MVI_4623_51007a7b.npy,yesterday,50,MVI_4623.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_4623.MOV,0.90
+yesterday/MVI_4624_e320a66b.npy,yesterday,47,MVI_4624.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_4624.MOV,0.74
+yesterday/MVI_4625_de408fdb.npy,yesterday,51,MVI_4625.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_4625.MOV,0.69
+yesterday/MVI_4626_99e0f50b.npy,yesterday,45,MVI_4626.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_4626.MOV,0.62
+yesterday/MVI_5037_c0a63aba.npy,yesterday,51,MVI_5037.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_5037.MOV,0.76
+yesterday/MVI_5038_42f6ad6b.npy,yesterday,51,MVI_5038.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_5038.MOV,0.71
+yesterday/MVI_5040_6f83d612.npy,yesterday,46,MVI_5040.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_5040.MOV,0.67
+yesterday/MVI_5478_2d28cb6e.npy,yesterday,40,MVI_5478.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_5478.MOV,1.00
+yesterday/MVI_5479_1048e2de.npy,yesterday,43,MVI_5479.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_5479.MOV,1.00
+yesterday/MVI_5480_ec0e327a.npy,yesterday,42,MVI_5480.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_5480.MOV,1.00
+yesterday/MVI_5481_d16e1bca.npy,yesterday,44,MVI_5481.MOV,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_5481.MOV,1.00
+yesterday/MVI_9166_323592a8.npy,yesterday,60,MVI_9166.MP4,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_9166.MP4,1.00
+yesterday/MVI_9167_0f55bb18.npy,yesterday,68,MVI_9167.MP4,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_9167.MP4,1.00
+yesterday/MVI_9168_8d052cc9.npy,yesterday,70,MVI_9168.MP4,Days_and_Time_2of3/Days_and_Time/75. Yesterday/MVI_9168.MP4,1.00
+you/MVI_0015_37c6d218.npy,you,46,MVI_0015.MOV,Pronouns_1of2/Pronouns/41. you/MVI_0015.MOV,1.00
+you/MVI_0016_7066a8c8.npy,you,56,MVI_0016.MOV,Pronouns_1of2/Pronouns/41. you/MVI_0016.MOV,1.00
+you/MVI_0017_4d068178.npy,you,48,MVI_0017.MOV,Pronouns_1of2/Pronouns/41. you/MVI_0017.MOV,1.00
+you/MVI_0067_5003b1c0.npy,you,63,MVI_0067.MOV,Pronouns_1of2/Pronouns/41. you/MVI_0067.MOV,1.00
+you/MVI_0068_d2532611.npy,you,63,MVI_0068.MOV,Pronouns_1of2/Pronouns/41. you/MVI_0068.MOV,1.00
+you/MVI_0069_ef330fa1.npy,you,64,MVI_0069.MOV,Pronouns_1of2/Pronouns/41. you/MVI_0069.MOV,1.00
+you/MVI_9885_3c69d69c.npy,you,42,MVI_9885.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9885.MOV,1.00
+you/MVI_9886_7bc9ac4c.npy,you,45,MVI_9886.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9886.MOV,1.00
+you/MVI_9887_46a985fc.npy,you,46,MVI_9887.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9887.MOV,1.00
+you/MVI_9888_c4f9122d.npy,you,39,MVI_9888.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9888.MOV,1.00
+you/MVI_9923_b4c50bee.npy,you,68,MVI_9923.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9923.MOV,1.00
+you/MVI_9924_06e5d7fe.npy,you,92,MVI_9924.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9924.MOV,1.00
+you/MVI_9925_3b85fe4e.npy,you,83,MVI_9925.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9925.MOV,1.00
+you/MVI_9926_7c25849e.npy,you,88,MVI_9926.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9926.MOV,1.00
+you/MVI_9960_68f43328.npy,you,48,MVI_9960.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9960.MOV,1.00
+you/MVI_9961_55941a98.npy,you,48,MVI_9961.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9961.MOV,1.00
+you/MVI_9962_12346048.npy,you,43,MVI_9962.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9962.MOV,0.98
+you/MVI_9996_16e2745d.npy,you,68,MVI_9996.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9996.MOV,1.00
+you/MVI_9997_2b825ded.npy,you,64,MVI_9997.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9997.MOV,1.00
+you/MVI_9998_a9d2ca3c.npy,you,69,MVI_9998.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9998.MOV,1.00
+you/MVI_9999_94b2e38c.npy,you,71,MVI_9999.MOV,Pronouns_1of2/Pronouns/41. you/MVI_9999.MOV,1.00

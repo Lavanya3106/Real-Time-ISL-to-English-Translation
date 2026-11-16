@@ -1,0 +1,12 @@
+# Put this file in  D:\cv_new\.streamlit\config.toml  (create the .streamlit folder if it does not exist).
+# It gives the whole app the light blue theme and stops Streamlit from asking to collect usage statistics.
+[theme]
+base = "light"
+primaryColor = "#2F5BEA"
+backgroundColor = "#F4F6FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#14213D"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false

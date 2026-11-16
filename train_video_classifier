@@ -1,0 +1,204 @@
+"""
+train_video_classifier.py
+Trains the sign classifier on the features made by extract_include.py (INCLUDE words) AND, optionally,
+by extract_hand_landmarks.py (your 8 emergency words), and saves isl_model.pt in the format app.py expects.
+
+Run:  python train_video_classifier.py          (works on CPU; a GPU/Colab is faster)
+Needs: pip install torch numpy        (sign_utils.py must be in the same folder)
+
+Settings from the terminal (Windows:  set NAME=value  then run the script):
+  FEAT_DIRS   folders with index.csv, comma separated.  Default: both datasets
+              "isl_include_landmarks,isl_hand_landmarks"      (INCLUDE only:  set FEAT_DIRS=isl_include_landmarks)
+  NORM        1 (default) = remove where/how big the hands are in the picture, per clip (see sign_utils.py)
+              0 = use the raw numbers as before
+  EPOCHS      default 100
+
+Split: every word is divided ~70% train / 15% validation / 15% test.
+  * Emergency clips have a signer number, so ALL clips of one signer stay in the same part
+    -> those words are tested on signers the model has never seen.
+  * INCLUDE does not tell us the signer, so its test clips may show signers also seen in training.
+    Accuracy for INCLUDE words is therefore a bit optimistic - say this in your report.
+The results are printed per dataset so you can report both honestly.
+"""
+
+import csv
+import json
+import os
+import random
+
+import numpy as np
+import torch
+import torch.nn as nn
+
+from sign_utils import group_split, normalize_clip
+
+# ---------- SETTINGS ----------
+FEAT_DIRS = [d.strip() for d in os.environ.get("FEAT_DIRS", "isl_include_landmarks,isl_hand_landmarks").split(",") if d.strip()]
+NORM = os.environ.get("NORM", "1") != "0"
+FIXED_LEN = 32            # every clip is stretched/shrunk to this many frames (app.py reads it from the model)
+EPOCHS = int(os.environ.get("EPOCHS", 100))
+BATCH = 32
+LR = 2e-3
+PATIENCE = 15
+SEED = 42
+# ------------------------------
+
+PER_HAND = 67
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+random.seed(SEED); np.random.seed(SEED); torch.manual_seed(SEED)
+
+
+def resample(x, n):
+    t = len(x)
+    pos = np.linspace(0, t - 1, n)
+    lo = np.floor(pos).astype(int)
+    hi = np.minimum(lo + 1, t - 1)
+    w = (pos - lo)[:, None]
+    return (x[lo] * (1 - w) + x[hi] * w).astype(np.float32)
+
+
+# only jiggle the hand-shape numbers (not flags / position / size)
+NOISE_COLS = np.zeros(2 * PER_HAND, dtype=np.float32)
+for k in (0, 1):
+    NOISE_COLS[k * PER_HAND:k * PER_HAND + 63] = 1
+
+
+def augment(clip):
+    t = len(clip)
+    cut = int(t * 0.12 * random.random())                   # trim a little from the start / end
+    a, b = random.randint(0, cut), t - random.randint(0, cut)
+    x = resample(clip[a:b] if b - a >= 5 else clip, FIXED_LEN)
+    x = x + np.random.randn(*x.shape).astype(np.float32) * 0.03 * NOISE_COLS
+    return x
+
+
+class SignGRU(nn.Module):                                   # same design as app.py
+    def __init__(self, n_classes, d_in, hidden=128):
+        super().__init__()
+        self.inp = nn.Sequential(nn.Linear(d_in, hidden), nn.LayerNorm(hidden), nn.GELU(), nn.Dropout(0.3))
+        self.gru = nn.GRU(hidden, hidden, num_layers=2, batch_first=True, bidirectional=True, dropout=0.3)
+        self.head = nn.Sequential(nn.Dropout(0.4), nn.Linear(hidden * 4, n_classes))
+
+    def forward(self, x):
+        h, _ = self.gru(self.inp(x))
+        return self.head(torch.cat([h.mean(1), h.max(1).values], dim=1))
+
+
+# ---------- load (one or more feature folders) ----------
+rows, clips, source, group = [], [], [], []
+for d in FEAT_DIRS:
+    index = os.path.join(d, "index.csv")
+    if not os.path.exists(index):
+        print(f"  warning: {index} not found - skipping this folder")
+        continue
+    with open(index, newline="", encoding="utf-8") as f:
+        part = list(csv.DictReader(f))
+    for r in part:
+        x = np.load(os.path.join(d, r["file"])).astype(np.float32)
+        clips.append(normalize_clip(x) if NORM else x)
+        rows.append(r)
+        source.append(d)
+        signer = (r.get("signer") or "").strip()
+        group.append(f"{d}|signer{signer}" if signer else f"{d}|{r['file']}")     # no signer -> every clip alone
+    print(f"  {d}: {len(part)} clips, {len({r['label'] for r in part})} words")
+if not rows:
+    raise SystemExit("No clips found. Run extract_include.py (and extract_hand_landmarks.py) first.")
+
+labels = sorted({r["label"] for r in rows})
+y = np.array([labels.index(r["label"]) for r in rows])
+source = np.array(source)
+D_IN = clips[0].shape[1]
+print(f"{len(clips)} clips | {len(labels)} words | {D_IN} numbers per frame | normalise: {NORM} | device: {device}")
+overlap = sorted(set.intersection(*[{r['label'] for r, s in zip(rows, source) if s == d} for d in set(source)])) \
+    if len(set(source)) > 1 else []
+if overlap:
+    print(f"Words that exist in both datasets (their clips are merged under one label): {', '.join(overlap)}")
+
+# ---------- split ----------
+rng = np.random.default_rng(SEED)
+tr, va, te = group_split(y, group, len(labels), rng)
+for c in range(len(labels)):
+    if not (y[tr] == c).any() or not (y[te] == c).any():
+        print(f"  warning: '{labels[c]}' has too few clips/signers for a test split ({int((y == c).sum())} clips)")
+print(f"Train {len(tr)} | Validation {len(va)} | Test {len(te)}")
+
+
+def fixed(ids):
+    return torch.tensor(np.stack([resample(clips[i], FIXED_LEN) for i in ids])).to(device)
+
+
+Xva, yva = fixed(va), torch.tensor(y[va]).to(device)
+Xte, yte = fixed(te), torch.tensor(y[te]).to(device)
+
+model = SignGRU(len(labels), D_IN).to(device)
+opt = torch.optim.AdamW(model.parameters(), lr=LR, weight_decay=1e-2)
+steps = EPOCHS * ((len(tr) + BATCH - 1) // BATCH)
+sched = torch.optim.lr_scheduler.OneCycleLR(opt, max_lr=LR, total_steps=steps)
+loss_fn = nn.CrossEntropyLoss(label_smoothing=0.1)
+
+
+@torch.no_grad()
+def logits_of(X):
+    model.eval()
+    return torch.cat([model(X[s:s + 256]) for s in range(0, len(X), 256)])
+
+
+best, best_state, bad = -1.0, None, 0
+for epoch in range(EPOCHS):
+    model.train()
+    order = np.random.permutation(tr)
+    for s in range(0, len(order), BATCH):
+        ids = order[s:s + BATCH]
+        xb = torch.tensor(np.stack([augment(clips[i]) for i in ids])).to(device)
+        loss = loss_fn(model(xb), torch.tensor(y[ids]).to(device))
+        opt.zero_grad(); loss.backward()
+        nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+        opt.step(); sched.step()
+    v_acc = float((logits_of(Xva).argmax(1) == yva).float().mean())
+    if (epoch + 1) % 5 == 0 or epoch == 0:
+        print(f"Epoch {epoch + 1:3d}/{EPOCHS} | validation accuracy {100 * v_acc:5.1f}%")
+    if v_acc > best:
+        best, bad = v_acc, 0
+        best_state = {k: v.detach().clone() for k, v in model.state_dict().items()}
+    else:
+        bad += 1
+        if bad >= PATIENCE:
+            print("Validation accuracy stopped improving, stopping early.")
+            break
+model.load_state_dict(best_state)
+
+# ---------- final test ----------
+lg = logits_of(Xte)
+pred = lg.argmax(1).cpu().numpy()
+true = yte.cpu().numpy()
+k = min(5, len(labels))
+topk = np.array([t in row for t, row in zip(true, lg.topk(k, dim=1).indices.cpu().numpy())])
+print("\n========== FINAL (test clips, never used for training or stopping) ==========")
+print(f"Top-1 accuracy: {100 * np.mean(pred == true):.1f}%   (chance would be {100 / len(labels):.1f}%)")
+print(f"Top-{k} accuracy: {100 * topk.mean():.1f}%   [{len(true)} test clips]")
+if len(set(source)) > 1:
+    print("\nBy dataset:")
+    for d in sorted(set(source)):
+        m = source[te] == d
+        if m.any():
+            print(f"  {d:28} top-1 {100 * np.mean(pred[m] == true[m]):5.1f}%   top-{k} {100 * topk[m].mean():5.1f}%   [{int(m.sum())} test clips]")
+
+print("\nWeakest words:")
+per = [(labels[c], float((pred[true == c] == c).mean()), int((true == c).sum())) for c in range(len(labels)) if (true == c).any()]
+for w, a, n in sorted(per, key=lambda t: t[1])[:10]:
+    print(f"  {w:18} {100 * a:5.1f}%   ({n} test clips)")
+
+cm = {}
+for t, p in zip(true, pred):
+    if t != p:
+        cm[(labels[t], labels[p])] = cm.get((labels[t], labels[p]), 0) + 1
+print("\nMost common mix-ups (real -> model said):")
+for (a, b), n in sorted(cm.items(), key=lambda kv: -kv[1])[:8]:
+    print(f"  {a} -> {b}: {n} times")
+
+torch.save({"model": model.state_dict(), "labels": labels, "fixed_len": FIXED_LEN, "d_in": D_IN, "norm": NORM},
+           "isl_model.pt")
+with open("isl_test_clips.json", "w") as f:
+    json.dump([r.get("relpath") or r["video"] for r in (rows[i] for i in te)], f, indent=1)
+print("\nSaved: isl_model.pt (use it with app.py) and isl_test_clips.json (test videos for the GUI; "
+      "INCLUDE paths are inside the include folder, emergency ones inside isl_emergency)")

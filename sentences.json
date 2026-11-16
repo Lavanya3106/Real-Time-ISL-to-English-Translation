@@ -1,0 +1,383 @@
+{
+ "categories": {
+  "day": [
+   "monday",
+   "tuesday",
+   "wednesday",
+   "thursday",
+   "friday",
+   "saturday",
+   "sunday"
+  ],
+  "time_ref": [
+   "today",
+   "tomorrow",
+   "yesterday"
+  ],
+  "time_unit": [
+   "hour",
+   "minute",
+   "week",
+   "month",
+   "year"
+  ],
+  "pronoun": [
+   "i",
+   "you",
+   "he",
+   "she",
+   "it"
+  ],
+  "greeting": [
+   "hello",
+   "good_morning",
+   "good_afternoon"
+  ],
+  "feeling": [
+   "happy",
+   "sad"
+  ],
+  "describing": [
+   "beautiful",
+   "ugly",
+   "cheap",
+   "expensive",
+   "loud",
+   "quiet",
+   "thick",
+   "flat",
+   "curved",
+   "loose",
+   "tight"
+  ],
+  "person_adj": [
+   "rich",
+   "poor",
+   "blind",
+   "deaf",
+   "mean",
+   "male",
+   "female"
+  ],
+  "family": [
+   "mother",
+   "father",
+   "parent",
+   "son",
+   "daughter"
+  ],
+  "thing": [
+   "bed",
+   "bedroom",
+   "chair",
+   "door",
+   "house",
+   "table",
+   "window",
+   "city",
+   "restaurant",
+   "street_or_road",
+   "train_station"
+  ]
+ },
+ "capitalise_categories": [
+  "day"
+ ],
+ "category_templates": {
+  "day": "It is {w}.",
+  "feeling": "I am {w}.",
+  "describing": "It is {w}.",
+  "person_adj": "The person is {w}.",
+  "greeting": "{w}!",
+  "thing": "This is a {w}.",
+  "family": "My {w}."
+ },
+ "word_overrides": {
+  "pain": "I am in pain.",
+  "hot": "It is very hot.",
+  "doctor": "I need a doctor.",
+  "help": "Please help me.",
+  "call": "Please make a call.",
+  "accident": "There has been an accident.",
+  "lose": "I have lost something.",
+  "thief": "There is a thief here.",
+  "how_are_you": "How are you?",
+  "alright": "Alright.",
+  "dream": "I had a dream."
+ },
+ "combos": [
+  {
+   "pattern": [
+    "call",
+    "doctor"
+   ],
+   "text": "Please call a doctor."
+  },
+  {
+   "pattern": [
+    "doctor",
+    "call"
+   ],
+   "text": "Please call a doctor."
+  },
+  {
+   "pattern": [
+    "call",
+    "help"
+   ],
+   "text": "Please call for help."
+  },
+  {
+   "pattern": [
+    "help",
+    "call"
+   ],
+   "text": "Please call for help."
+  },
+  {
+   "pattern": [
+    "help",
+    "doctor"
+   ],
+   "text": "Please help me, I need a doctor."
+  },
+  {
+   "pattern": [
+    "doctor",
+    "help"
+   ],
+   "text": "Please help me, I need a doctor."
+  },
+  {
+   "pattern": [
+    "accident",
+    "help"
+   ],
+   "text": "There has been an accident, please help."
+  },
+  {
+   "pattern": [
+    "help",
+    "accident"
+   ],
+   "text": "There has been an accident, please help."
+  },
+  {
+   "pattern": [
+    "lose",
+    "help"
+   ],
+   "text": "I have lost something, please help me."
+  },
+  {
+   "pattern": [
+    "help",
+    "lose"
+   ],
+   "text": "I have lost something, please help me."
+  },
+  {
+   "pattern": [
+    "today",
+    "@day"
+   ],
+   "text": "Today is {day}."
+  },
+  {
+   "pattern": [
+    "tomorrow",
+    "@day"
+   ],
+   "text": "Tomorrow is {day}."
+  },
+  {
+   "pattern": [
+    "yesterday",
+    "@day"
+   ],
+   "text": "Yesterday was {day}."
+  },
+  {
+   "pattern": [
+    "yesterday",
+    "@feeling"
+   ],
+   "text": "Yesterday I was {feeling}."
+  },
+  {
+   "pattern": [
+    "@time_ref",
+    "@feeling"
+   ],
+   "text": "{time_ref} I am {feeling}."
+  },
+  {
+   "pattern": [
+    "i",
+    "@feeling"
+   ],
+   "text": "I am {feeling}."
+  },
+  {
+   "pattern": [
+    "i",
+    "@person_adj"
+   ],
+   "text": "I am {person_adj}."
+  },
+  {
+   "pattern": [
+    "i",
+    "pain"
+   ],
+   "text": "I am in pain."
+  },
+  {
+   "pattern": [
+    "he",
+    "@feeling"
+   ],
+   "text": "He is {feeling}."
+  },
+  {
+   "pattern": [
+    "he",
+    "@person_adj"
+   ],
+   "text": "He is {person_adj}."
+  },
+  {
+   "pattern": [
+    "he",
+    "pain"
+   ],
+   "text": "He is in pain."
+  },
+  {
+   "pattern": [
+    "she",
+    "@feeling"
+   ],
+   "text": "She is {feeling}."
+  },
+  {
+   "pattern": [
+    "she",
+    "@person_adj"
+   ],
+   "text": "She is {person_adj}."
+  },
+  {
+   "pattern": [
+    "she",
+    "pain"
+   ],
+   "text": "She is in pain."
+  },
+  {
+   "pattern": [
+    "you",
+    "@feeling"
+   ],
+   "text": "You are {feeling}."
+  },
+  {
+   "pattern": [
+    "you",
+    "@person_adj"
+   ],
+   "text": "You are {person_adj}."
+  },
+  {
+   "pattern": [
+    "you",
+    "pain"
+   ],
+   "text": "You are in pain."
+  },
+  {
+   "pattern": [
+    "i",
+    "alright"
+   ],
+   "text": "I am alright."
+  },
+  {
+   "pattern": [
+    "i",
+    "hot"
+   ],
+   "text": "I am very hot."
+  },
+  {
+   "pattern": [
+    "it",
+    "@describing"
+   ],
+   "text": "It is {describing}."
+  },
+  {
+   "pattern": [
+    "@greeting",
+    "how_are_you"
+   ],
+   "text": "{greeting}! How are you?"
+  },
+  {
+   "pattern": [
+    "@greeting",
+    "@feeling"
+   ],
+   "text": "{greeting}! I am {feeling}."
+  },
+  {
+   "pattern": [
+    "@family",
+    "@feeling"
+   ],
+   "text": "My {family} is {feeling}."
+  },
+  {
+   "pattern": [
+    "@family",
+    "@person_adj"
+   ],
+   "text": "My {family} is {person_adj}."
+  },
+  {
+   "pattern": [
+    "@family",
+    "pain"
+   ],
+   "text": "My {family} is in pain."
+  },
+  {
+   "pattern": [
+    "@family",
+    "doctor"
+   ],
+   "text": "My {family} needs a doctor."
+  },
+  {
+   "pattern": [
+    "@family",
+    "help"
+   ],
+   "text": "My {family} needs help."
+  },
+  {
+   "pattern": [
+    "@thing",
+    "@describing"
+   ],
+   "text": "The {thing} is {describing}."
+  },
+  {
+   "pattern": [
+    "@describing",
+    "@thing"
+   ],
+   "text": "The {thing} is {describing}."
+  }
+ ]
+}
